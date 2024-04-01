@@ -8,7 +8,9 @@ summary:
 cover_image: madhavan_ramanujam_monetizing_innovation.jpg
 ---
 
-I stumbled upon this gem of a book recently (March 2024), and its contents have left me pleasantly astonished. Titled The Four Flavors of Monetizing Innovation Failure, it's a comprehensive exploration of strategies and insights tailored not only to the realms of innovation but also remarkably resonant with my experiences as a B2B product manager.
+I stumbled upon this gem of a book recently (March 2024), and its contents have left me pleasantly astonished. 
+
+Titled **Monetizing Innovation**, it's a comprehensive exploration of strategies and insights tailored not only to the realms of innovation but also remarkably resonant with my experiences as a B2B product manager.
 
 ## The four flafours of monetizing innovation failure
 
