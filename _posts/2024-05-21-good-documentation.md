@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Good Documentation Matters and How Diátaxis Makes It Better"
-date: 2024-05-20 05:00:00 +0100
+date: 2024-05-21 05:00:00 +0100
 categories: product developmnent
 excerpt_separator: <!-- excerpt -->
 source: 
