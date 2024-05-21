@@ -32,7 +32,7 @@ One effective approach to addressing these pains and achieving high-quality docu
 
 ## Diátaxis: A Comprehensive Approach to Documentation
 
-[Diátaxis](https://diataxis.fr/){:target="_blank"} is a structured methodology for creating and organizing documentation. This approach, derived from the Ancient Greek words διά (dia, meaning "across") and τάξις (taxis, meaning "arrangement"), emphasizes a holistic view of documentation that ensures clarity, usability, and maintainability. Created by [Daniel Procida](https://www.linkedin.com/in/danieleprocida/){:target="_blank"} during his work on the [Django project](https://www.djangoproject.com/){:target="_blank"}, a popular Python web framework, Diátaxis offers a user-centered focus beneficial to both writers and readers of documentation.
+[Diátaxis](https://diataxis.fr/){:target="_blank"} is a structured methodology for creating and organizing documentation. This approach, derived from the Ancient Greek words διά (dia, meaning "across") and τάξις (taxis, meaning "arrangement"), emphasizes a holistic view of documentation that ensures clarity, usability, and maintainability. Created by [Daniel Procida](https://vurt.org/){:target="_blank"} during his work on the [Django project](https://www.djangoproject.com/){:target="_blank"}, a popular Python web framework, Diátaxis offers a user-centered focus beneficial to both writers and readers of documentation.
 
 Diátaxis is also known under the name [Divio Documentation System](https://docs.divio.com/documentation-system/){:target="_blank"}. 
 It was created and maintained by Daniel Procida when working at [Divio](https://www.divio.com/){:target="_blank"}, a company that provides cloud infrastructure management for web apps. 
@@ -83,7 +83,7 @@ Diátaxis offers a comprehensive, user-centered approach to documentation that a
 
 ## History and Creation of Diátaxis
 
-Diátaxis was created by [Daniele Procida](https://www.linkedin.com/in/danieleprocida/){:target="_blank"}, a developer and documentation expert, as part of his work on improving documentation practices. The concept and framework were formalized and introduced around 2020-2021. Procida's experience with the Django project, where he contributed significantly to its documentation, informed the development of Diátaxis.
+Diátaxis was created by [Daniele Procida](https://vurt.org/){:target="_blank"}, a developer and documentation expert, as part of his work on improving documentation practices. The concept and framework were formalized and introduced around 2020-2021. Procida's experience with the Django project, where he contributed significantly to its documentation, informed the development of Diátaxis.
 
 The creation of Diátaxis was driven by the need to address common issues in software documentation, such as unclear purposes, inconsistent styles, and disorganized content. Procida aimed to create a systematic approach that would be easy for documentation creators to adopt and that would effectively serve the diverse needs of documentation users.
 
@@ -133,7 +133,7 @@ Check out the [EHANDBOOK Docs & Tutorials](https://ehandbook.etas.com/docs/ehand
 
 ## Get in Touch
 
-I have extensive experience in creating software documentation using docs-as-code approaches, including:
+I have experience in creating software documentation using docs-as-code approaches, including:
 
 - [AsciiDoc](https://asciidoc.org/){:target="_blank"} and [Antora](https://antora.org/){:target="_blank"}
 - [RestructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html){:target="_blank"} and [Sphinx](https://www.sphinx-doc.org/){:target="_blank"}
