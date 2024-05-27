@@ -31,7 +31,7 @@ google_analytics: G-3WF06R3KTS
 
 show_excerpts: true
 
-include_downloads: false
+include_downloads: true
 
 # Build settings
 theme: minima
