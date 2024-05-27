@@ -14,9 +14,16 @@ Especially, I outline which supporting methods can be used to identify and quant
         </a>
     </div>
     <div style="width: 40%;">    
+        <!--
         <a download style="text-decoration: none">
             <div class="button">
                 Download (Coming soon)
+            </div>
+        </a>
+        -->
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSebAo6byIYU4tJxbc_XHGDWGpkUFqITjKzHycvphuvZ5fnIDQ/viewform?usp=sf_link" download style="text-decoration: none;" target="_blank">
+            <div class="button">
+                Get ebook (coming soon)
             </div>
         </a>
     </div>
@@ -35,11 +42,18 @@ Especially, I outline which supporting methods can be used to identify and quant
         </a>
     </div>
     <div style="width: 40%;">    
+        <!--
         <a download style="text-decoration: none">
             <div class="button">
                 Download (Coming soon)
             </div>
         </a>
+        -->
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSebAo6byIYU4tJxbc_XHGDWGpkUFqITjKzHycvphuvZ5fnIDQ/viewform?usp=sf_link" download style="text-decoration: none;" target="_blank">
+            <div class="button">
+                Get presentation slides (coming soon)
+            </div>
+        </a>        
     </div>
 </div>
 <br/>
