@@ -30,7 +30,6 @@ layout: home
 
 On this site, I share [my experiences, personal views]({{ '/blog' | relative_url }}) as well as [methods and tools that I have adopted or developed]({{ '/custom_methods_and_tools' | relative_url }}). 
 
-
 <h2>Check out my latest <a href="./blog">blog</a> posts</h2>
 <ul>
   {% for post in site.posts limit:3 %}
@@ -44,8 +43,6 @@ On this site, I share [my experiences, personal views]({{ '/blog' | relative_url
 <h2>Methods & Tools</h2>
 
 Over the past 15 years, I have **tried out** a lot of methods, **adopted many** of them and even **developed** a set of <a href="{{ site.url }}/custom_methods_and_tools/">**own methods and supporting tools**</a> that have helped me to create a **successful new B2B business** at an existing large corporation. 
-
-
 
 ## Interested? Get in touch
 

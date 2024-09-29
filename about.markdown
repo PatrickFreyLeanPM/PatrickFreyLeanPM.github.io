@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a **passionate product manager** with over **15 years' experience**. I am working at [ETAS GmbH](http://www.etas.com){:target="_blank"}, a 100% subsidiary of [Bosch](http://www.bosch.com){:target="_blank"} [#likeabosch](https://www.youtube.com/results?search_query=likeabosch){:target="_blank"}. I have worked with cross-functional, interdisciplinary product teams building great tools that help automotive engineers to succeed with developing embedded software for future vehicles.
 
-# Products / solutions I have led
+# Products / solutions I have led and contributed to
 
 * [ETAS EHANDBOOK]({{ '/ehandbook' | relative_url }})
 * [ETAS Deterministic Middleware Solution]({{ '/edms' | relative_url }})
