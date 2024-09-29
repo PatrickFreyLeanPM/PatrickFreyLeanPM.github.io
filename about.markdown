@@ -8,8 +8,8 @@ I am a **passionate product manager** with over **15 years' experience**. I am w
 
 # Products / solutions I have led
 
-* [ETAS EHANDBOOK](/ehandbook)
-* [ETAS Deterministic Middleware Solution](/edms)
+* [ETAS EHANDBOOK]({{ '/ehandbook' | relative_url }})
+* [ETAS Deterministic Middleware Solution]({{ '/edms' | relative_url }})
 
 # My take on product management
 
