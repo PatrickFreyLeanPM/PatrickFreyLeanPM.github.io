@@ -1,1 +1,1 @@
-git push github-pages custom-minima-theme-github-pages -f
+git push origin custom-minima-theme-github-pages -f
