@@ -29,7 +29,7 @@ The following list of books has helped and inspired me on my path to becoming a 
 
 <div class="cards-3">
 {% assign sorted_books = site.books | sort: 'order' %}
-{% for book in sorted_books | sort: order %}    
+{% for book in sorted_books %}    
     <div class="card">
         <a href="{{ book.url | relative_url }}">
             <img src="{{ '/assets/books/' | relative_url }}{{ book.cover_image }}" alt="{{ book.author }}:</b> {{ book.title }}">
@@ -58,13 +58,3 @@ The following list of books has helped and inspired me on my path to becoming a 
 {% include cube_teaser.html %}
 
 {% include value_based_pricing_teaser.html %}
-
-
-<!--
-## The CUBE method
-
-[CUBE](/CUBE) is a method I have developed for prioritizing product backlogs. 
-
-{% include cube_downloads.markdown %}
-
--->

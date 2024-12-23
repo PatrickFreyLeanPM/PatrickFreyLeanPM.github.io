@@ -8,7 +8,7 @@ There's a number of lean product management people that I follow, whose contribu
 
 <div class="cards-3">
 {% assign sorted_people = site.people | sort: 'order' %}
-{% for person in sorted_people | sort: order %}    
+{% for person in sorted_people %}    
     <div class="card">
         <a href="{{ person.url | relative_url }}">
             {% if person.image_url %}
