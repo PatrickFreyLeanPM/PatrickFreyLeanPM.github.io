@@ -54,6 +54,11 @@ I am a computer scientist by education with a specialization in automotive embed
 * **2006-2010:** Conducted research in the area of automotive software engineering. Awarded with a PhD from Ulm University. Title of [PhD thesis: "A Timing Model for Real-Time Control-Systems and its Application on Simulation and Monitoring of AUTOSAR Systems"](https://www.linkedin.com/in/freypatrick/overlay/50016542/single-media-viewer?type=DOCUMENT&profileId=ACoAAAy3fMABdRHS-IHJ4YuMaaVL7OFYF5j2mx4&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkqX4E8x8RlWBewbqax6LsQ%3D%3D){:target="_blank"}. 
 
 
+# What others think and say about me
+
+OK, I have to work on this section and get quotes from people I have worked with. 
+Nevertheless, I have introduced this section as I was fascinated [what ChatGPT has to say about me]({{ '/chatgpt_about_me/' | absolute_url }}).
+
 # Interested? Get in touch
 
 If you're interested in lean product management in general or topics such as prioritization and value-based pricing, don't hesitate to get in touch ({% include get_in_touch.html %})!
