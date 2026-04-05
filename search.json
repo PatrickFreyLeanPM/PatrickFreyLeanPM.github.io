@@ -1,0 +1,70 @@
+---
+layout: null
+---
+[
+  {%- assign all_content = "" | split: "" -%}
+  {%- for post in site.posts -%}
+    {%- assign item = "" | split: "" -%}
+    {%- capture entry -%}
+    {
+      "title": {{ post.title | jsonify }},
+      "url": {{ post.url | relative_url | jsonify }},
+      "date": {{ post.date | date: "%b %-d, %Y" | jsonify }},
+      "type": "Blog",
+      "content": {{ post.content | strip_html | truncatewords: 200 | jsonify }}
+    }
+    {%- endcapture -%}
+    {%- assign all_content = all_content | push: entry -%}
+  {%- endfor -%}
+  {%- for book in site.books -%}
+    {%- capture entry -%}
+    {
+      "title": {{ book.title | jsonify }},
+      "url": {{ book.url | relative_url | jsonify }},
+      "date": "",
+      "type": "Book",
+      "content": {{ book.content | strip_html | truncatewords: 200 | jsonify }}
+    }
+    {%- endcapture -%}
+    {%- assign all_content = all_content | push: entry -%}
+  {%- endfor -%}
+  {%- for concept in site.concepts -%}
+    {%- capture entry -%}
+    {
+      "title": {{ concept.title | jsonify }},
+      "url": {{ concept.url | relative_url | jsonify }},
+      "date": "",
+      "type": "Concept",
+      "content": {{ concept.content | strip_html | truncatewords: 200 | jsonify }}
+    }
+    {%- endcapture -%}
+    {%- assign all_content = all_content | push: entry -%}
+  {%- endfor -%}
+  {%- for method in site.methods -%}
+    {%- capture entry -%}
+    {
+      "title": {{ method.title | jsonify }},
+      "url": {{ method.url | relative_url | jsonify }},
+      "date": "",
+      "type": "Method",
+      "content": {{ method.content | strip_html | truncatewords: 200 | jsonify }}
+    }
+    {%- endcapture -%}
+    {%- assign all_content = all_content | push: entry -%}
+  {%- endfor -%}
+  {%- for page in site.html_pages -%}
+    {%- if page.title and page.url != "/search/" -%}
+      {%- capture entry -%}
+      {
+        "title": {{ page.title | jsonify }},
+        "url": {{ page.url | relative_url | jsonify }},
+        "date": "",
+        "type": "Page",
+        "content": {{ page.content | strip_html | truncatewords: 200 | jsonify }}
+      }
+      {%- endcapture -%}
+      {%- assign all_content = all_content | push: entry -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {{ all_content | join: "," }}
+]

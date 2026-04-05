@@ -1,0 +1,148 @@
+/**
+ * Search page
+ */
+.search-input-wrapper {
+  margin-bottom: $spacing-unit;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px 16px;
+  font-size: $base-font-size;
+  font-family: $base-font-family;
+  border: 2px solid $grey-color-light;
+  border-radius: 6px;
+  outline: none;
+  transition: border-color 0.2s;
+
+  &:focus {
+    border-color: $color2;
+  }
+}
+
+.search-result-count {
+  color: $grey-color;
+  margin-bottom: $spacing-unit / 2;
+}
+
+.search-no-results {
+  color: $grey-color;
+}
+
+.search-result-item {
+  padding: $spacing-unit / 2 0;
+  border-bottom: 1px solid $grey-color-light;
+}
+
+.search-result-type {
+  display: inline-block;
+  font-size: $small-font-size * 0.85;
+  font-weight: 600;
+  color: $color2;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.search-result-date {
+  font-size: $small-font-size * 0.85;
+  color: $grey-color;
+}
+
+.search-result-title {
+  @include relative-font-size(1.25);
+  margin-top: 4px;
+  margin-bottom: 4px;
+
+  a {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.search-result-snippet {
+  font-size: $small-font-size;
+  color: $grey-color-dark;
+  line-height: 1.5;
+}
+
+/**
+ * Header search form
+ */
+.header-search-form {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 20px;
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+}
+
+.header-search-input {
+  padding: 5px 0;
+  font-size: $small-font-size;
+  font-family: $base-font-family;
+  border: none;
+  border-bottom: 1px solid $grey-color-light;
+  background: transparent;
+  outline: none;
+  width: 160px;
+  transition: border-color 0.2s;
+
+  &::placeholder {
+    color: $grey-color;
+  }
+
+  &:focus {
+    border-bottom-color: $color2;
+  }
+}
+
+.header-search-submit {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  line-height: 1;
+
+  svg {
+    width: 20px;
+    height: 20px;
+    fill: $grey-color;
+    transition: fill 0.2s;
+  }
+
+  &:hover svg,
+  &:focus svg {
+    fill: $link-color;
+  }
+}
+
+// Mobile: show form stacked inside the dropdown
+@include media-query($on-palm) {
+  .header-search-form {
+    margin-left: 0;
+    padding: 5px 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .header-search-input {
+    width: 100%;
+    flex: 1;
+  }
+}
+
+@include media-query($on-laptop) {
+  .header-search-input {
+    width: 130px;
+  }
+}
