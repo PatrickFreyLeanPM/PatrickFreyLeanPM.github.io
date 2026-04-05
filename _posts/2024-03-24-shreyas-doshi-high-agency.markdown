@@ -17,6 +17,7 @@ Shreyas contrasts High Agency individuals, who drive change and overcome challen
 He acknowledges the challenges but encourages readers to learn and embody High Agency for personal and professional growth.
 
 ![Agency vs. Talent](https://media.licdn.com/dms/image/C5612AQHzYzJpBl3_kw/article-cover_image-shrink_720_1280/0/1593369565663?e=1717027200&v=beta&t=D0Z_ZEMCiVvvoHRDG121dPzXkj29gKHCRCbsIlJfrvg)
+{: loading="lazy"}
 
 ## Areas of own High Agency
 

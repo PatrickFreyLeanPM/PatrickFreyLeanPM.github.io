@@ -32,7 +32,7 @@ The following list of books has helped and inspired me on my path to becoming a 
 {% for book in sorted_books %}
     <div class="card">
         <a href="{{ book.url | relative_url }}">
-            <img src="{{ '/assets/books/' | relative_url }}{{ book.cover_image }}" alt="{{ book.author }}: {{ book.title }}"">
+            <img src="{{ '/assets/books/' | relative_url }}{{ book.cover_image }}" alt="{{ book.author }}: {{ book.title }}" loading="lazy">
         </a>
     </div>
     <div class="card">

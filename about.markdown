@@ -31,7 +31,7 @@ Besides Marty's book, I read a lot of [other books]({{ '/books' | relative_url }
         </p>
     </div>
     <div class="card">
-        <img src="{{ '/assets/Lean_Software_Product_Management_Certificate.jpg' | relative_url }}" alt="Lean Software Product Management Certificate">
+        <img src="{{ '/assets/Lean_Software_Product_Management_Certificate.jpg' | relative_url }}" alt="Lean Software Product Management Certificate" loading="lazy">
         <a href="{{ '/assets/Lean_Software_Product_Management_Certificate.pdf' | relative_url }}">Download</a>
     </div>
 </div>

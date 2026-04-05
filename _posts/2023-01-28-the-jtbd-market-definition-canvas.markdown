@@ -17,4 +17,4 @@ TL;DR
 
 <!-- excerpt -->
 
-<img src="{{ '/assets/posts/the-jtbd-market-definition-canvas-definition-market.jpg' | relative_url }}" alt="How to define a market">
+<img src="{{ '/assets/posts/the-jtbd-market-definition-canvas-definition-market.jpg' | relative_url }}" alt="How to define a market" loading="lazy">

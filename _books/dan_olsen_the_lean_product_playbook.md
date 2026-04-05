@@ -27,7 +27,7 @@ Part Three focuses on growth strategies and scaling the product. Olsen discusses
 
 One of the main contributions by Dan Olsen is the **Product-Market Fit Pyramid**. This pyramid represents the different levels of product-market fit, with each level building upon the previous one. 
 
-<img src="{{ '/assets/books/dan_olsen_product_market_fit_pyramid.jpg' | relative_url }}" alt="Product-Market Fit Pyramid">
+<img src="{{ '/assets/books/dan_olsen_product_market_fit_pyramid.jpg' | relative_url }}" alt="Product-Market Fit Pyramid" loading="lazy">
 
 The levels are as follows (from bottom to top):
 

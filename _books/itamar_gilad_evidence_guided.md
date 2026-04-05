@@ -22,8 +22,8 @@ The book is thus a good companion to the workshop material and a good read as we
 
 * The **[Confidence meter](https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/){:target="_blank"}** is an instrument that supports the priorization of ideas using the ICE priorization method. ICE stands for Impact, Confidence and Ease. 
 
-<img src="{{ '/assets/itamar_gilad/GIST.jpg' | relative_url }} " alt="GIST framework" width="45%">
-<img src="{{ '/assets/itamar_gilad/Confidence_Meter.png' | relative_url }}" alt="The Confidence meter" width="47%">  
+<img src="{{ '/assets/itamar_gilad/GIST.jpg' | relative_url }} " alt="GIST framework" width="45%" loading="lazy">
+<img src="{{ '/assets/itamar_gilad/Confidence_Meter.png' | relative_url }}" alt="The Confidence meter" width="47%" loading="lazy">  
 
 ## ICE vs CUBE prioritization
 

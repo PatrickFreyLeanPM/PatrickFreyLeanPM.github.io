@@ -39,6 +39,7 @@ Opportunity Solution Trees are an approach for structuring and visualizing the t
 - Solutions need to be validated as without evidence, they are only assumptions. Hence, There can be multiple **assumption tests** linked to the solutions. 
 
 ![Opportunity Solution Trees (OST)]({{ '/assets/Teresa_Torres_Opportunity_Solution_Trees.jpg' | relative_url }})
+{: loading="lazy"}
 
 *Opportunity Solution Tree (OST) structure as defined by Teresa Torres. Note that I have added colors to make the levels more distinguishable.*
 
@@ -52,6 +53,7 @@ In chapter 5, Teresa describes the approach of continuous interviewing - a techn
 While the UX methods I am familiar with primarily use an interview guide, Teresa introduces the more lean **interview snapshot** which I find very interesting. 
 
 ![Interview Snapshot]({{ '/assets/Teresa_Torres_Interview_Snapshot.jpg' | relative_url }})
+{: loading="lazy"}
 
 *Interview Snapshot template by Teresa Torres. Note that I have added the term "Experience Map" to denote what is shown in the graphics.*
 

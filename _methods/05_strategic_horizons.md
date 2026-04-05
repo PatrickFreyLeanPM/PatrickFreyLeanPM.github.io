@@ -19,6 +19,7 @@ Strategic horizons refer to different levels of planning that guide an organizat
 -->
 
 ![Strategic Horizons Model]({{ '/assets/concepts/strategic_horizons_model_gilad.png' | relative_url }})
+{: loading="lazy"}
 
 ## Importance and Benefits of Strategic Horizons
 

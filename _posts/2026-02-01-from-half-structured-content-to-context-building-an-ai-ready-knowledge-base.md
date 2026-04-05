@@ -102,10 +102,12 @@ If you're a Confluence user: Here's how to get Markdown from LLM into Confluence
 **Step 1:** Choose "Insert Markup" from the Confluence menu.
 
 ![Choose "Insert Markup" from Confluence menu]({{ '/assets/posts/confluence_insert_markup_step1.png' | relative_url }})
+{: loading="lazy"}
 
 **Step 2:** Paste Markdown and insert.
 
 ![Paste Markdown and insert - Done]({{ '/assets/posts/confluence_insert_markup_step2.png' | relative_url }})
+{: loading="lazy"}
 
 *Note: I could also have set up an agent that automates the transfer of content into the Confluence page. While this is possible, my focus was on getting the results and not on automation yet.*
 
@@ -122,10 +124,12 @@ So what are the results from all these efforts?
 The organization of the Confluence Space is now significantly more intuitive.
 
 ![EHANDBOOK Confluence Space]({{ '/assets/posts/ehandbook_confluence_space.png' | relative_url }})
+{: loading="lazy"}
 
 The AI chat assistant provides answers rooted in content from our internal knowledge base.
 
 ![EHANDBOOK Confluence Space]({{ '/assets/posts/ai_chat_assistant_ehandbook_confluence_space.png' | relative_url }})
+{: loading="lazy"}
 
 ## Key Insights
 

@@ -24,7 +24,7 @@ layout: home
         </p>
     </div>
     <div class="card">
-        <img class="profilepicture" src="{{ '/assets/Patrick_Frey_square_640x564_transparent_background.png' | relative_url }}" alt="Patrick Frey">
+        <img class="profilepicture" src="{{ '/assets/Patrick_Frey_square_640x564_transparent_background.png' | relative_url }}" alt="Patrick Frey" loading="eager">
     </div>
 </div>
 

@@ -24,6 +24,7 @@ After watching the video with Steve Jobs and reading Peter's [blog post](https:/
 Peter Yang on product quality
 
 ![Peter Yang on product quality](/assets/posts/peter_yang_quote_product_quality2.jpg)
+{: loading="lazy"}
 
 > Creating **products that users love** is not only hard and a ton of work, but also reflects the **quality of a product**. 
 

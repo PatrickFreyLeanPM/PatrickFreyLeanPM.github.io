@@ -56,6 +56,7 @@ Diátaxis identifies four distinct user needs, each corresponding to a specific 
 4. **Explanation**: Explanatory documentation delves into the concepts, principles, and reasoning behind a subject. It provides the theoretical background and context, helping users understand the "why" behind the "what" and "how." This form is essential for users who need to gain a deeper understanding of a topic.
 
 ![Diataxis]({{ '/assets/posts/diataxis.webp' | relative_url }})
+{: loading="lazy"}
 
 ## The Diátaxis Framework
 
@@ -132,6 +133,7 @@ This was when I discovered the Diátaxis framework / Divio documentation system.
 Check out the [EHANDBOOK Docs & Tutorials](https://ehandbook.etas.com/docs/ehandbook/container_build.html){:target="_blank"} to get a glimpse.
 
 ![EHANDBOOK Docs & Tutorials]({{ '/assets/posts/ehandbook_docs_diataxis.jpg' | relative_url }})
+{: loading="lazy"}
 
 ## Get in Touch
 
