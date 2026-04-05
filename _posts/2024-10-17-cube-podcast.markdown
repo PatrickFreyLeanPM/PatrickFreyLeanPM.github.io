@@ -5,6 +5,7 @@ date: 2024-10-17 17:00:00 +0100
 categories: product-management
 excerpt_separator: <!-- excerpt -->
 permalink: cube-podcast
+description: "An AI-generated NotebookLM podcast introducing the CUBE prioritization method — a framework for prioritizing product backlogs from customer, business, and development perspectives."
 ---
 
 I love playing with new tech, specifically new products and services that emerge in the continuously improving area of AI. 

@@ -3,6 +3,7 @@ layout: page
 title: Value-Based Pricing
 permalink: /value_based_pricing/
 tags: pricing value
+description: "Value-based pricing derives prices based on customer value — a three-step approach covering value identification, quantification, and business case creation."
 ---
 
 Value-based pricing is a method for deriving and arguing prices for products or services based on the value that it creates for your customer. 

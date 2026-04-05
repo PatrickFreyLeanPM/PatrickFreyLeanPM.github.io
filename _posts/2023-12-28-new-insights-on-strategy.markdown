@@ -4,7 +4,8 @@ title: "New insights on strategy"
 date: 2023-12-28 06:00:00 +0100
 categories: product management
 excerpt_separator: <!-- excerpt -->
-source: 
+source:
+description: "Roger Martin's distinction between strategy and plan — and how it aligns with Itamar Gilad's approach to evidence-based product strategy and planning."
 ---
 
 Recently, a colleague shared some very interesting insights on [LinkedIn](https://www.linkedin.com/posts/felix-hieronymi-50455a135_a-plan-is-not-a-strategy-activity-7145703428135034880-PfIO?utm_source=share&utm_medium=member_desktop) about strategy development.

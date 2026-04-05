@@ -2,8 +2,10 @@
 layout: post
 title: "The JTBD market definition canvas"
 date: 2023-01-28 18:30:00 +0100
-categories: productmanagement 
+categories: productmanagement
 excerpt_separator: <!-- excerpt -->
+description: "Tony Ulwick's Jobs-to-be-Done market definition canvas provides a practical framework to define a market as a group of people and the job they are trying to accomplish."
+image: /assets/posts/the-jtbd-market-definition-canvas-definition-market.jpg
 ---
 
 Tony Ulwick has written an interesting article on <a href="https://jobs-to-be-done.com/the-jtbd-market-definition-canvas-6c60a6f2baf2" target="_blank">The JTBD market definition canvas</a>.

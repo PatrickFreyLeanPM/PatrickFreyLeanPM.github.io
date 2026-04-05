@@ -4,6 +4,7 @@ title: "What makes a product manager a good product manager"
 date: 2023-06-05 05:00:00 +0100
 categories: chatgpt
 excerpt_separator: <!-- excerpt -->
+description: "ChatGPT's take on what makes a great product manager — and why those qualities align with lean product management principles and customer-centric product development."
 ---
 
 I have asked ChatGPT the question what makes a product manager a good product manager.

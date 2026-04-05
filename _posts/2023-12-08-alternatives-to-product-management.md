@@ -4,7 +4,8 @@ title: "Marty Cagan: Alternatives to product management & product leaders "
 date: 2023-12-08 06:00:00 +0100
 categories: product management
 excerpt_separator: <!-- excerpt -->
-source: 
+source:
+description: "Marty Cagan on what can replace product managers and product leaders — and what it means for the future of product management and organizational structure."
 ---
 
 Marty Cagan has recently published two new articles: [Alternatives to Product Managers](https://www.svpg.com/alternatives-to-product-managers/) and [Alternatives to Product Leaders](https://www.svpg.com/alternatives-to-product-leaders/) as a reply to [Brian Chesky’s new playbook](https://www.lennyspodcast.com/brian-cheskys-new-playbook/).

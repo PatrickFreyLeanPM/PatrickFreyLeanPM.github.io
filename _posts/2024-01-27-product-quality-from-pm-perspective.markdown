@@ -4,7 +4,9 @@ title: "Product Quality from PM perspective"
 date: 2024-01-07 06:00:00 +0100
 categories: product management
 excerpt_separator: <!-- excerpt -->
-source: 
+source:
+description: "How Peter Yang's philosophy on product quality — craftsmanship, attention to detail, and focus on the user — shaped the development of EHANDBOOK at ETAS."
+image: /assets/posts/peter_yang_quote_product_quality.jpg
 ---
 
 [Peter Yang](https://www.linkedin.com/in/yangpeter/){:target="_blank"}, currently Product Lead at Roblox who also runs a popular newsletter covering product management topics, recently had an interesting LinkedIn post on **product quality**  that caught my eye.

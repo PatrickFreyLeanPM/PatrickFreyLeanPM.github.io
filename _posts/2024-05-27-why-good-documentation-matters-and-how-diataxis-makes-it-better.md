@@ -2,9 +2,11 @@
 layout: post
 title: "Why Good Documentation Matters and How Diátaxis Makes It Better"
 date: 2024-05-27 06:00:00 +0100
-categories: product developmnent
+categories: product development
 excerpt_separator: <!-- excerpt -->
-source: 
+source:
+description: "The Diátaxis documentation framework — a structured, user-centered approach that organizes content into tutorials, how-to guides, technical references, and explanations."
+image: /assets/posts/diataxis.webp
 ---
 
 ## Why Good Documentation Matters

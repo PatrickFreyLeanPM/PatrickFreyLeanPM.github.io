@@ -4,6 +4,7 @@ title: "Product vs. Feature Teams"
 date: 2023-01-12 17:30:00 +0100
 categories: productmanagement
 excerpt_separator: <!-- excerpt -->
+description: "Marty Cagan's take on empowered product teams vs. feature teams, with personal reflections from 12 years on the EHANDBOOK product team at ETAS."
 ---
 
 Today, I came across an interesting article by Marty Cagan on the difference between empowered product teams and feature teams.

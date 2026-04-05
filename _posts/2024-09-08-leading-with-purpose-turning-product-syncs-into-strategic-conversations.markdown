@@ -3,6 +3,8 @@ layout: post
 title: "Leading with Purpose: Turning Product Syncs into Strategic Conversations"
 date: 2024-09-08
 categories: product-management leadership
+excerpt_separator: <!-- excerpt -->
+description: "How to transform weekly product syncs from task status updates into strategic conversations — a practical guide to outcome-focused product leadership and team alignment."
 ---
 
 In most product organizations, weekly syncs with product managers (PMs) and product owners (POs) are a routine part of the workflow. These meetings, often structured around tools like Jira or other task-tracking systems, are designed to provide updates on the current status of tasks in a kanban or backlog. It’s a format we’re all familiar with — each PM or PO provides a quick rundown of what’s in progress, what’s completed, and what’s next. 

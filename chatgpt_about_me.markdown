@@ -2,6 +2,8 @@
 layout: page
 title: ChatGPT about me
 permalink: /chatgpt_about_me/
+description: "After two years of daily ChatGPT usage, I asked it what it knows about me — the results were revealing and sparked a commitment to share my PM expertise."
+image: /assets/ChatGPT_about_me_2025_01_answer.jpg
 ---
 
 I've been using ChatGPT since early 2023 on a regular basis and am still using it almost every day (besides other AI tools).

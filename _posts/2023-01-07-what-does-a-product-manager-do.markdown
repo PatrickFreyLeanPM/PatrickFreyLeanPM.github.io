@@ -4,6 +4,7 @@ title: "What does a product manager do?"
 date: 2023-01-03 17:30:00 +0100
 categories: motivation
 excerpt_separator: <!-- excerpt -->
+description: "A recommended introduction to the product manager role, with reflections from 15+ years of PM experience building tools for automotive engineers at ETAS."
 ---
 
 I got a new follower on Twitter today ([@NilsDavis](https://twitter.com/NilsDavis){:target="_blank"}), and it turns out he is he is a product management veteran himself and runs a series of interesting resources (website, podcast, etc.).

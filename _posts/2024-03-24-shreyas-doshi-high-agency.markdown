@@ -4,7 +4,8 @@ title: "Shreyas Doshi on High Agency"
 date: 2024-03-24 06:00:00 +0100
 categories: product management
 excerpt_separator: <!-- excerpt -->
-source: 
+source:
+description: "Shreyas Doshi's concept of high agency — taking proactive initiative without waiting for perfect conditions — and why it matters in product leadership and team building."
 ---
 
 A recent [LinkedIn post by Marty Cagan](https://www.linkedin.com/feed/update/urn:li:activity:7176977920006004736?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7176977920006004736%29) has directed my attention to an article by Shreyas Doshi on [High Agency](https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi/?trackingId=1rrpWdiIjtFki%2BgoU0yqHw%3D%3D). 

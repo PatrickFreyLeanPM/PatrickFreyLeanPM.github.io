@@ -2,6 +2,8 @@
 layout: page
 title: ETAS EHANDBOOK
 permalink: /ehandbook/
+description: "ETAS EHANDBOOK is an interactive documentation solution for automotive embedded software — winner of Product of the Year 2016 by Elektronik Automotive."
+image: /assets/Bild_1_Product_of_the_Year_edit_rdax_1683x1124_90.jpg
 ---
 
 I have gained most of my experience from working on the ETAS EHANDBOOK solution. [ETAS EHANDBOOK](http://www.etas.com/ehandbook){:target="_blank"} is an interactive documentation solution for automotive embedded software. 

@@ -4,7 +4,8 @@ title: "On time, on budget, on spec"
 date: 2023-09-24 06:00:00 +0100
 categories: prioritization
 excerpt_separator: <!-- excerpt -->
-source: 
+source:
+description: "Why 'on time, on budget, on spec' is a misleading constraint, and how to balance competing demands in software product development and project management."
 ---
 
 __*"On time, on budget, on spec"*__ – three constraints that often feature prominently in job postings for project managers and product managers.

@@ -4,6 +4,7 @@ title: "Why I started this page"
 date: 2022-12-25 17:30:00 +0100
 categories: motivation
 excerpt_separator: <!-- excerpt -->
+description: "Why I started this product management blog — engineering tools built for users, value-based pricing, and the missing link of lean product development."
 ---
 
 TL;DR

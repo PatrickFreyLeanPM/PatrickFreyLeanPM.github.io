@@ -3,6 +3,8 @@ layout: page
 title: The CUBE prioritization method
 permalink: /cube/
 tags: CUBE Scrum Kanban Prioritization Business Value Customer Value Development Effort KANO
+description: "CUBE is a prioritization method for product backlogs that examines work items from customer, business, and development perspectives to maximize outcomes."
+image: /assets/Product_Backlog_Prioritized_CUBE.jpg
 ---
 
 Agile methods such as [Scrum](https://scrumguides.org/){:target="_blank"} and Kanban have been adopted widely over the past years, especially in software development. 

@@ -4,7 +4,8 @@ title: "From Half-Structured Content to Context: Building an AI-Ready Knowledge 
 date: 2026-02-02 09:00:00 +0100
 categories: product-management
 excerpt_separator: <!-- excerpt -->
-#permalink: documentation-ai-agents
+description: "How I transformed the EHANDBOOK team's Confluence space into an AI-ready knowledge base — reducing knowledge debt and improving RAG retrieval for internal AI assistants."
+image: /assets/posts/confluence_insert_markup_step1.png
 ---
 
 In my [first post on LinkedIn this year](https://www.linkedin.com/posts/freypatrick_etas-ehandbook-productmanagement-activity-7412851566908575744-E969?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAy3fMABdRHS-IHJ4YuMaaVL7OFYF5j2mx4){:target="_blank"}, I shared the goals I set for myself upon rejoining the **EHANDBOOK** team as a Product Manager. One specific objective stood out: *providing an improved internal team knowledge base structured to be AI-ready and easier to navigate.*
