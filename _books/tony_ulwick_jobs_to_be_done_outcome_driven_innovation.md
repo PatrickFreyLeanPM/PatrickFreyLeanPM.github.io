@@ -10,13 +10,13 @@ cover_image: tony_ulwick_jobs_to_be_done_outcome_driven_innovation.jpg
 
 In his seminal book, Tony Ulwick provides an overview on the the **Jobs-to-be-Done (JTBD) Needs Framework** and **Outcome-Driven Innovation (ODI)** process that he invented and brought to perfection.
 
-Tony Ulwick's work also had influence on other thought leaders such as Alex Osterwalder. 
+Tony Ulwick's work also had influence on other thought leaders such as Alex Osterwalder.
 
-In the foreword to Ulwick's book, Osterwalder writes: 
+In the foreword to Ulwick's book, Osterwalder writes:
 
 > I learned to appreciate Tony Ulwick’s work when I dove deeper into the Jobs-to-be-Done concept via Professor Clayton Christensen book, The Innovator’s Solution (Harvard Business School Press, 2003), and Tony’s article “The Customer-Centered Innovation Map” (Harvard Business Review, 2008). Subsequently, I discovered Strategyn’s powerful Outcome-Driven Innovation (ODI) process that companies can use to effectively execute the innovation process. **Ultimately, this research led me and my team to design the Value Proposition Canvas**.
 
-In the [Value Proposition Canvas]({{ '/books/alexander_osterwalder_value_proposition_design' | relative_url }}), the jobs section of the Customer Map clearly relates to Ulwick's jobs-to-be-done concepts. 
+In the [Value Proposition Canvas]({{ '/books/alexander_osterwalder_value_proposition_design' | relative_url }}), the jobs section of the Customer Map clearly relates to Ulwick's jobs-to-be-done concepts.
 
 <!--
 ## Key takeaways
@@ -52,7 +52,7 @@ syntax of a need statement should be.**
 
 ## TL;DR
 
-Before reading Tony Ulwick's book, have a look at the following YouTube video where explains what the jobs-to-be-done theory is about. 
+Before reading Tony Ulwick's book, have a look at the following YouTube video where explains what the jobs-to-be-done theory is about.
 
 <iframe width="1261" height="719" src="https://www.youtube.com/embed/Et4H4Ty1qhQ" title="What is Jobs-to-be-Done?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

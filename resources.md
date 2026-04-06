@@ -25,7 +25,7 @@ permalink: /resources/
                 <br/>
                 Amazon Working Backwards PR/FAQ Framework for Product Innovation
             </li>
-        </ol>            
+        </ol>
     </div>
     <div class="card">
         <h4>Strategy</h4>
@@ -35,7 +35,6 @@ permalink: /resources/
                 <br/>
                 Wardley mapping is a strategic planning technique that visually represents the evolution and interdependencies of components within a system, helping to understand the competitive landscape and guide decision-making.
             </li>
-        </ol>            
-    </div>        
+        </ol>
+    </div>
 </div>
-

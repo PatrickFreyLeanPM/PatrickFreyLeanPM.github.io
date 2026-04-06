@@ -23,9 +23,9 @@ Part Three focuses on growth strategies and scaling the product. Olsen discusses
 
 # Key Takeaways
 
-## 1. Product-Market Fit Pyramid: 
+## 1. Product-Market Fit Pyramid
 
-One of the main contributions by Dan Olsen is the **Product-Market Fit Pyramid**. This pyramid represents the different levels of product-market fit, with each level building upon the previous one. 
+One of the main contributions by Dan Olsen is the **Product-Market Fit Pyramid**. This pyramid represents the different levels of product-market fit, with each level building upon the previous one.
 
 <img src="{{ '/assets/books/dan_olsen_product_market_fit_pyramid.webp' | relative_url }}" alt="Product-Market Fit Pyramid" loading="lazy">
 

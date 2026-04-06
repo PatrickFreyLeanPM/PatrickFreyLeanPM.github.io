@@ -8,7 +8,7 @@ source: https://chat.openai.com/share/1db0a75e-8040-4891-afff-bb634b6444f9
 description: "How to say no to stakeholders with tact and finesse — a practical guide to managing prioritization conflicts and navigating difficult product management conversations."
 ---
 
-As a product manager or product owner responsible for software-based solutions, one of the critical challenges you face is managing stakeholder requests and prioritizing features or enhancements. Saying "no" to customer wishes, user requests, or any other stakeholder demands requires finesse and tact. While the attribution of the following quote is uncertain, its essence captures the art of tactful prioritization: 
+As a product manager or product owner responsible for software-based solutions, one of the critical challenges you face is managing stakeholder requests and prioritizing features or enhancements. Saying "no" to customer wishes, user requests, or any other stakeholder demands requires finesse and tact. While the attribution of the following quote is uncertain, its essence captures the art of tactful prioritization:
 
 > Tact is the ability to tell someone to go to hell in such a way that they look forward to the trip.
 >

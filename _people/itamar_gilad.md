@@ -13,4 +13,4 @@ Itamar is the author of the book [Evidence-Guided: Creating High-Impact Products
 
 Itamar often writes articles in [his blog](https://itamargilad.com/blog/){:target="_blank"} on various product related topics.
 
-He appeared in [Lenny's podcast](https://www.lennysnewsletter.com/p/becoming-evidence-guided-itamar-gilad){:target="_blank"} where he speaks about evidence-guided product development. 
+He appeared in [Lenny's podcast](https://www.lennysnewsletter.com/p/becoming-evidence-guided-itamar-gilad){:target="_blank"} where he speaks about evidence-guided product development.

@@ -10,11 +10,11 @@ description: "Marty Cagan on what can replace product managers and product leade
 
 Marty Cagan has recently published two new articles: [Alternatives to Product Managers](https://www.svpg.com/alternatives-to-product-managers/) and [Alternatives to Product Leaders](https://www.svpg.com/alternatives-to-product-leaders/) as a reply to [Brian Chesky’s new playbook](https://www.lennyspodcast.com/brian-cheskys-new-playbook/).
 
-There's a couple of quotes that I'd like to preserve for myself as I find them extremly valuable to reflect upon my own role. 
+There's a couple of quotes that I'd like to preserve for myself as I find them extremly valuable to reflect upon my own role.
 
 <!-- excerpt -->
 
-> If you define *product management*, as I do, *as being responsible for the value and viability of what gets built*, then there really isn’t an alternative to product *management* – someone is doing this one way or another. 
+> If you define *product management*, as I do, *as being responsible for the value and viability of what gets built*, then there really isn’t an alternative to product *management* – someone is doing this one way or another.
 > -- <cite>[Alternatives to Product Managers](https://www.svpg.com/alternatives-to-product-managers/)</cite>
 
 ## Alternatives to Product Leaders

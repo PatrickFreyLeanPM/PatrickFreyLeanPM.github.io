@@ -17,4 +17,4 @@ Incremental development also supports faster time-to-market. By releasing functi
 
 ## Origins
 
-The concept of iterative, incremental development has been prevalent in various software development methodologies, with roots tracing back to agile practices. While no specific individual is credited with coining the term, thought leaders and practitioners in the Agile movement, including authors of the "Agile Manifesto," have significantly contributed to the development and popularization of these principles. 
+The concept of iterative, incremental development has been prevalent in various software development methodologies, with roots tracing back to agile practices. While no specific individual is credited with coining the term, thought leaders and practitioners in the Agile movement, including authors of the "Agile Manifesto," have significantly contributed to the development and popularization of these principles.

@@ -9,9 +9,9 @@ description: "A recommended introduction to the product manager role, with refle
 
 I got a new follower on Twitter today ([@NilsDavis](https://twitter.com/NilsDavis){:target="_blank"}), and it turns out he is he is a product management veteran himself and runs a series of interesting resources (website, podcast, etc.).
 
-I have just started browsing through his website, but already like what I have found. 
+I have just started browsing through his website, but already like what I have found.
 
-Especially the introduction to "What does a product manager do?" is a good read for anyone not into product management yet or who is struggeling on interpreting this role. 
+Especially the introduction to "What does a product manager do?" is a good read for anyone not into product management yet or who is struggeling on interpreting this role.
 
 <!-- excerpt -->
 

@@ -9,11 +9,11 @@ Short, easy to read and digest articles on key concepts of lean product manageme
 <h3>Product</h3>
 <ol>
 {% assign sorted_concepts = site.concepts | sort: 'order' %}  
-{% for concept in sorted_concepts %}    
+{% for concept in sorted_concepts %}
     <li>
         <a href="{{ concept.url }}">
             {{ concept.title }}
-        </a>        
+        </a>
     </li>
 {% endfor %}
 </ol>
@@ -21,11 +21,11 @@ Short, easy to read and digest articles on key concepts of lean product manageme
 <h3>Methods</h3>
 <ol>
 {% assign sorted_methods = site.methods | sort: 'order' %}  
-{% for method in sorted_methods %}    
+{% for method in sorted_methods %}
     <li>
         <a href="{{ method.url }}">
             {{ method.title }}
-        </a>        
+        </a>
     </li>
 {% endfor %}
 </ol>

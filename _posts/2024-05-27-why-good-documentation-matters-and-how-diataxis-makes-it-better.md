@@ -31,15 +31,14 @@ Good documentation is crucial for the success of any software project. It ensure
 
 One effective approach to addressing these pains and achieving high-quality documentation is through the Diátaxis framework.
 
-
 ## Diátaxis: A Comprehensive Approach to Documentation
 
 [Diátaxis](https://diataxis.fr/){:target="_blank"} is a structured methodology for creating and organizing documentation. This approach, derived from the Ancient Greek words διά (dia, meaning "across") and τάξις (taxis, meaning "arrangement"), emphasizes a holistic view of documentation that ensures clarity, usability, and maintainability. Created by [Daniel Procida](https://vurt.org/){:target="_blank"} during his work on the [Django project](https://www.djangoproject.com/){:target="_blank"}, a popular Python web framework, Diátaxis offers a user-centered focus beneficial to both writers and readers of documentation.
 
-Diátaxis is also known under the name [Divio Documentation System](https://docs.divio.com/documentation-system/){:target="_blank"}. 
-It was created and maintained by Daniel Procida when working at [Divio](https://www.divio.com/){:target="_blank"}, a company that provides cloud infrastructure management for web apps. 
+Diátaxis is also known under the name [Divio Documentation System](https://docs.divio.com/documentation-system/){:target="_blank"}.
+It was created and maintained by Daniel Procida when working at [Divio](https://www.divio.com/){:target="_blank"}, a company that provides cloud infrastructure management for web apps.
 
-What I personally and specifically value about the Diátaxis approach is **the user-centered focus on both the writers as well as the readers of documentation**. It thus fits very well to many other methods and techniques thatare user- and/or customer-centered.    
+What I personally and specifically value about the Diátaxis approach is **the user-centered focus on both the writers as well as the readers of documentation**. It thus fits very well to many other methods and techniques thatare user- and/or customer-centered.
 
 <!-- excerpt -->
 
@@ -83,7 +82,6 @@ Diátaxis offers a comprehensive, user-centered approach to documentation that a
 
 -->
 
-
 ## History and Creation of Diátaxis
 
 Diátaxis was created by [Daniele Procida](https://vurt.org/){:target="_blank"}, a developer and documentation expert, as part of his work on improving documentation practices. The concept and framework were formalized and introduced around 2020-2021. Procida's experience with the Django project, where he contributed significantly to its documentation, informed the development of Diátaxis.
@@ -94,22 +92,21 @@ The Diátaxis framework emerged from the recognition that different types of doc
 
 To disseminate the Diátaxis framework, Procida published articles, gave talks, and provided resources on platforms like GitHub, where he detailed the principles and applications of the framework. This made Diátaxis accessible to a broad audience and facilitated its adoption by various projects and organizations.
 
-
 ## Example documenations using Diátaxis
 
 There are numerous projects that have successfully applied the Diátaxis framework:
 
-* [django CMS, a modern web publishing platform built with Django](https://docs.django-cms.org/en/latest/){:target="_blank"}
-* [Gatsby, a React-based open source framework for creating websites](https://www.gatsbyjs.com/docs){:target="_blank"}
-* [Cloudflare](https://developers.cloudflare.com/){:target="_blank"}
+- [django CMS, a modern web publishing platform built with Django](https://docs.django-cms.org/en/latest/){:target="_blank"}
+- [Gatsby, a React-based open source framework for creating websites](https://www.gatsbyjs.com/docs){:target="_blank"}
+- [Cloudflare](https://developers.cloudflare.com/){:target="_blank"}
 
 ## Getting started with Diátaxis
 
-Both the websites of [Diátaxis](https://diataxis.fr/){:target="_blank"} and the [Divio](https://docs.divio.com/documentation-system/){:target="_blank"} Documentation System are good sources with information about the system. 
-Nevertheless, I recommend the [Diátaxis](https://diataxis.fr/){:target="_blank"} as it is maintained by the original mastermind behind the framework, [Daniele Procida](https://www.linkedin.com/in/danieleprocida/){:target="_blank"}. 
-Also, it provides more information on backgrounds and is 
+Both the websites of [Diátaxis](https://diataxis.fr/){:target="_blank"} and the [Divio](https://docs.divio.com/documentation-system/){:target="_blank"} Documentation System are good sources with information about the system.
+Nevertheless, I recommend the [Diátaxis](https://diataxis.fr/){:target="_blank"} as it is maintained by the original mastermind behind the framework, [Daniele Procida](https://www.linkedin.com/in/danieleprocida/){:target="_blank"}.
+Also, it provides more information on backgrounds and is
 
-I recommend to read the [theory behind Diátaxos](https://diataxis.fr/theory/){:target="_blank"} to understand the principles of writing good documentation. 
+I recommend to read the [theory behind Diátaxos](https://diataxis.fr/theory/){:target="_blank"} to understand the principles of writing good documentation.
 For docs-as-code approaches, I recommend to read the article on [structuring documenation contents](https://diataxis.fr/complex-hierarchies/){:target="_blank"}.
 
 Daniele Procida has also been speaking publicly about Diátaxis / Divio documentation system. Here are two videos I can recommend to watch:
@@ -118,17 +115,16 @@ Daniele Procida has also been speaking publicly about Diátaxis / Divio document
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4vKPhjcMZg?si=DPL1t20--fmr6Riv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 ## Own experiences with Diátaxis / Divio
 
-During my time as product manager for the [ETAS EHANDBOOK solution](http://www.etas.com/ehandbook){:target="_blank"}, our earlier documentation was primarily based on PDF documents as well as an online help system that were shipped with the products. Although most topics were covered content-wise, many users as well as internal colleagues still consulted us for rather easy questions. 
+During my time as product manager for the [ETAS EHANDBOOK solution](http://www.etas.com/ehandbook){:target="_blank"}, our earlier documentation was primarily based on PDF documents as well as an online help system that were shipped with the products. Although most topics were covered content-wise, many users as well as internal colleagues still consulted us for rather easy questions.
 
-The insights from user research revealed that the knowledge we provided as documentation was both hard to discover and difficult to use. 
+The insights from user research revealed that the knowledge we provided as documentation was both hard to discover and difficult to use.
 
-We then decided to switch from PDF-based documentation to a modern web-based, online documenation. 
+We then decided to switch from PDF-based documentation to a modern web-based, online documenation.
 While for writing and generating documenation, we rather quickly decided for a docs-as-code approach[^1], a still remaining key question was how to arrange and organize the documentation contents.
 
-This was when I discovered the Diátaxis framework / Divio documentation system. We decided to give it a try and rework our documentation contents. It worked really well, and we received very positive user feedbacks on the new documentation. 
+This was when I discovered the Diátaxis framework / Divio documentation system. We decided to give it a try and rework our documentation contents. It worked really well, and we received very positive user feedbacks on the new documentation.
 
 Check out the [EHANDBOOK Docs & Tutorials](https://ehandbook.etas.com/docs/ehandbook/container_build.html){:target="_blank"} to get a glimpse.
 
@@ -149,7 +145,5 @@ Feel free to reach out and drop me an email for an exchange.
 <br/>
 <br/>
 <hr/>
-
-
 
 [^1]: For docs-as-code, we decided for [Antora](https://antora.org/) with [AsciiDoc](https://asciidoc.org/).

@@ -9,10 +9,10 @@ layout: home
 <div class="cards">
     <div class="card">
         <p>
-        I'm <b><a href="{{ '/about' | relative_url }}">Patrick</a></b>, a <b>passionate product manager</b> with over 15 years' experience in building software tools for automotive software engineers. 
+        I'm <b><a href="{{ '/about' | relative_url }}">Patrick</a></b>, a <b>passionate product manager</b> with over 15 years' experience in building software tools for automotive software engineers.
         </p>
         <p>
-            My <b>key interests</b> as product manager are 
+            My <b>key interests</b> as product manager are
             <ul>
                 <li>
                     <b>building software-based products</b> that users <b>really like using</b>
@@ -28,7 +28,7 @@ layout: home
     </div>
 </div>
 
-On this site, I share [my experiences, personal views]({{ '/blog' | relative_url }}) as well as [methods and tools that I have adopted or developed]({{ '/custom_methods_and_tools' | relative_url }}). 
+On this site, I share [my experiences, personal views]({{ '/blog' | relative_url }}) as well as [methods and tools that I have adopted or developed]({{ '/custom_methods_and_tools' | relative_url }}).
 
 <h2>Check out my latest <a href="./blog">blog</a> posts</h2>
 <ul>
@@ -42,10 +42,10 @@ On this site, I share [my experiences, personal views]({{ '/blog' | relative_url
 
 <h2>Methods & Tools</h2>
 
-Over the past 15 years, I have **tried out** a lot of methods, **adopted many** of them and even **developed** a set of <a href="{{ site.url }}/custom_methods_and_tools/">**own methods and supporting tools**</a> that have helped me to create a **successful new B2B business** at an existing large corporation. 
+Over the past 15 years, I have **tried out** a lot of methods, **adopted many** of them and even **developed** a set of <a href="{{ site.url }}/custom_methods_and_tools/">**own methods and supporting tools**</a> that have helped me to create a **successful new B2B business** at an existing large corporation.
 
 ## Interested? Get in touch
 
 If you're interested in lean product management in general or topics such as prioritization and value-based pricing, don't hesitate to get in touch ({% include get_in_touch.html %})!
 
-There's a lot of material that I have developed to teach the methods as well as tools to apply them. 
+There's a lot of material that I have developed to teach the methods as well as tools to apply them.

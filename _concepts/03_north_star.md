@@ -17,7 +17,7 @@ The North Star Metric is a quantifiable and strategic measure that serves as the
 
 **Example North Star Metric:** For a content-sharing platform, the North Star Metric could be "Monthly Active Content Creators." This metric directly aligns with the North Star of encouraging user-generated content and engagement.
 
-## Importance of North Star and North Star Metric:
+## Importance of North Star and North Star Metric
 
 1. **Focus:** The North Star and its accompanying metric provide a focal point for the team. They help prioritize tasks and features that contribute directly to the core objective.
 

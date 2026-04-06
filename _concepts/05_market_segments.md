@@ -10,11 +10,12 @@ category: product
 Market segments are distinct groups of potential customers who share similar characteristics, needs, and behaviors. These segments are identified based on factors such as demographics, psychographics, behavior, and preferences.
 
 **Example Market Segments:**
+
 1. **Small Business Owners:** This segment could include owners of local shops, restaurants, and service providers who need efficient yet affordable point-of-sale software.
 2. **Freelance Creatives:** This segment might encompass graphic designers, writers, and photographers who require project management tools tailored to their specific needs.
 3. **Enterprise IT Managers:** This segment could involve IT managers in large corporations seeking comprehensive cybersecurity solutions.
 
-## Market Segmentation 
+## Market Segmentation
 
 Market segmentation is the process of dividing a larger market into distinct and manageable segments based on common characteristics. It involves analyzing customer data and preferences to identify these segments and tailor products or marketing strategies to cater to their unique needs.
 

@@ -8,11 +8,11 @@ source:
 description: "Shreyas Doshi's concept of high agency — taking proactive initiative without waiting for perfect conditions — and why it matters in product leadership and team building."
 ---
 
-A recent [LinkedIn post by Marty Cagan](https://www.linkedin.com/feed/update/urn:li:activity:7176977920006004736?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7176977920006004736%29) has directed my attention to an article by Shreyas Doshi on [High Agency](https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi/?trackingId=1rrpWdiIjtFki%2BgoU0yqHw%3D%3D). 
+A recent [LinkedIn post by Marty Cagan](https://www.linkedin.com/feed/update/urn:li:activity:7176977920006004736?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7176977920006004736%29) has directed my attention to an article by Shreyas Doshi on [High Agency](https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi/?trackingId=1rrpWdiIjtFki%2BgoU0yqHw%3D%3D).
 
-Shreyas discusses the concept of **High Agency**, an essential quality he's observed in successful leaders. High Agency involves taking **proactive steps to achieve goals without waiting for ideal conditions**. 
+Shreyas discusses the concept of **High Agency**, an essential quality he's observed in successful leaders. High Agency involves taking **proactive steps to achieve goals without waiting for ideal conditions**.
 
-Shreyas contrasts High Agency individuals, who drive change and overcome challenges, with those lacking agency, who blame external factors for their setbacks. He emphasizes the importance of High Agency alongside talent and integrity, urging leaders to prioritize it when hiring. Shreyas provides insights into cultivating High Agency, recommending revisiting Stephen Covey's "7 Habits of Highly Effective People" and focusing on traits like an **ownership mindset** and **skills like creative execution**. 
+Shreyas contrasts High Agency individuals, who drive change and overcome challenges, with those lacking agency, who blame external factors for their setbacks. He emphasizes the importance of High Agency alongside talent and integrity, urging leaders to prioritize it when hiring. Shreyas provides insights into cultivating High Agency, recommending revisiting Stephen Covey's "7 Habits of Highly Effective People" and focusing on traits like an **ownership mindset** and **skills like creative execution**.
 
 He acknowledges the challenges but encourages readers to learn and embody High Agency for personal and professional growth.
 
@@ -21,11 +21,11 @@ He acknowledges the challenges but encourages readers to learn and embody High A
 
 ## Areas of own High Agency
 
-From my personal experiences, I can confirm that **High Agency** was and still is highly relevant to advance many product-related topics. 
+From my personal experiences, I can confirm that **High Agency** was and still is highly relevant to advance many product-related topics.
 
-Retrospectively, there are numerous examples that I would attribute to my own agency rather than my talent. 
+Retrospectively, there are numerous examples that I would attribute to my own agency rather than my talent.
 
-Here's a list of examples from my time as product manager for ETAS EHANDBOOK: 
+Here's a list of examples from my time as product manager for ETAS EHANDBOOK:
 
 * Killing 3 product innovation ideas without potential (e.g., an interactive model viewer) and formulating a vision for a new solution that would address real user problems (ECU software documentation) (2010)
 * Piloting Scrum at ETAS for the development of a then new product (2011)

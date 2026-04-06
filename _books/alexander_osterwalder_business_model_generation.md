@@ -14,5 +14,4 @@ Osterwalder's emphasis on visual thinking and collaboration is a highlight of "B
 
 What truly stands out in Osterwalder's book is its practicality. The real-world case studies and examples offer insights into how established companies and startups have leveraged the Business Model Canvas to drive success. Whether I'm brainstorming new business ideas or evaluating existing models, "Business Model Generation" has become an indispensable resource that has transformed the way I approach business strategy and decision-making.
 
-https://amzn.eu/d/fJmDOyP
-
+<https://amzn.eu/d/fJmDOyP>

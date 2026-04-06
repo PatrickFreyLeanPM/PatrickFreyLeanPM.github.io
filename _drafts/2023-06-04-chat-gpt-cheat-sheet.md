@@ -6,12 +6,11 @@ categories: chatgpt
 excerpt_separator: <!-- excerpt -->
 ---
 
-* 
-
+*
 
 * I want to learn / get better at <desired skill>. Create a 30 day learning plan  that will help a beginner like me learn and improve this skill.
 
-* 
+*
 
 | Topic | ChatGPT Question Template |
 |-------|---------------------------|

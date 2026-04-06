@@ -8,6 +8,7 @@ category: methods
 Objectives & Key Results (OKRs) is a goal-setting framework that defines clear and measurable objectives along with key results that indicate progress towards those objectives. OKRs help teams align their efforts, track performance, and drive results in a focused and transparent manner.
 
 **Examples of Objectives & Key Results:**
+
 1. **Objective:** Improve User Engagement
    - **Key Result:** Increase daily active users by 20% in the next quarter.
    - **Key Result:** Achieve a 15% decrease in bounce rate on the landing page.

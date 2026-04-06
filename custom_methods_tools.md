@@ -4,9 +4,9 @@ title: Methods & Tools
 permalink: /custom_methods_and_tools/
 ---
 
-Over the past 15 years, I have **tried out** a lot of methods, **adopted many** of them and even **developed** a set of **own methods and supporting tools** that have helped me to create a **successful new B2B business** at an existing large corporation. 
+Over the past 15 years, I have **tried out** a lot of methods, **adopted many** of them and even **developed** a set of **own methods and supporting tools** that have helped me to create a **successful new B2B business** at an existing large corporation.
 
-As the methods and tools have served me well, I want to share them to help others increasing their odds to succeed. 
+As the methods and tools have served me well, I want to share them to help others increasing their odds to succeed.
 
 <!--
 ## Own proven methods

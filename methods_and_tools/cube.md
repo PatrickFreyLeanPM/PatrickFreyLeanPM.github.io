@@ -7,9 +7,9 @@ description: "CUBE is a prioritization method for product backlogs that examines
 image: /assets/Product_Backlog_Prioritized_CUBE.jpg
 ---
 
-Agile methods such as [Scrum](https://scrumguides.org/){:target="_blank"} and Kanban have been adopted widely over the past years, especially in software development. 
+Agile methods such as [Scrum](https://scrumguides.org/){:target="_blank"} and Kanban have been adopted widely over the past years, especially in software development.
 
-In Scrum, for example, the [product backlog](https://www.scrum.org/resources/what-is-a-product-backlog){:target="_blank"} is the central repository of all work that should be done in the future by the team who is working on the product. 
+In Scrum, for example, the [product backlog](https://www.scrum.org/resources/what-is-a-product-backlog){:target="_blank"} is the central repository of all work that should be done in the future by the team who is working on the product.
 <!--A backlog is a priorized list of issues such as epics, user stories or tasks.-->
 
 ## The challenge of prioritizing
@@ -18,13 +18,13 @@ In theory, the product backlog is a prioritized list of work items where the fir
 
 ![Product Backlog]({{ '/assets/Product_Backlog_Pichler.jpg' | relative_url }}){: width="auto" loading="lazy"}
 
-But how to prioritize a set of work items? 
+But how to prioritize a set of work items?
 
-What should actually come first, second, third? Why? 
+What should actually come first, second, third? Why?
 
-What’s the motivation and reasoning behind the prioritization? 
+What’s the motivation and reasoning behind the prioritization?
 
-How can you explain or even defend the prioritization? 
+How can you explain or even defend the prioritization?
 
 What are the objectives behind the prioritization?
 
@@ -60,27 +60,27 @@ On the other hands, there can be constraints such as
 
 ## The Customer Perspective
 
-In order to be successful with your product or service, it is of utmost importance that it delivers **value** to your customers and its users. 
+In order to be successful with your product or service, it is of utmost importance that it delivers **value** to your customers and its users.
 
-The CUBE method provides a sound approach for identifying and categorizing user needs as well as gaps and opportunities in your offering. 
+The CUBE method provides a sound approach for identifying and categorizing user needs as well as gaps and opportunities in your offering.
 
 ## The Business Perspective
 
 Businesses require revenues to fund activities such as research, development and operations.
 
-And revenues are obtained from existing and new customers. 
+And revenues are obtained from existing and new customers.
 
-While the interests of your customers and users should be aligned to the interests of your business, they are typically not the same. 
+While the interests of your customers and users should be aligned to the interests of your business, they are typically not the same.
 
-The CUBE method provides an approach to cluster work items into business value categories and measure their effect on your business. 
+The CUBE method provides an approach to cluster work items into business value categories and measure their effect on your business.
 
-This helps to focus on your business interests whilst keeping an eye on your customer interests. 
+This helps to focus on your business interests whilst keeping an eye on your customer interests.
 
 ## The Development Perspective
 
-Typically, customer value cannot be created without spending efforts (aka "doing work"). 
+Typically, customer value cannot be created without spending efforts (aka "doing work").
 
-For software-based products or services that are developed according to agile framework such as Scrum, development efforts are typically estimated in so-called story-points. 
+For software-based products or services that are developed according to agile framework such as Scrum, development efforts are typically estimated in so-called story-points.
 
 ## Bringing all perspectives together
 
@@ -91,18 +91,16 @@ By bringing together the insights from three different perspectives, it is possi
 
 ![Product Backlog prioritized with help of CUBE]({{ '/assets/Product_Backlog_Prioritized_CUBE.jpg' | relative_url }}){: width="auto" loading="lazy"}
 
-
 ## Summary
 
-**Prioritizing work items** of a product backlog **requires substantial efforts** and is **not an easy task**. 
+**Prioritizing work items** of a product backlog **requires substantial efforts** and is **not an easy task**.
 
-The **CUBE method** can greatly **help you** to **take more rationale prioritization decisions** by taking **different perspectives** into account. This helps you to **maximize your odds of success**. 
+The **CUBE method** can greatly **help you** to **take more rationale prioritization decisions** by taking **different perspectives** into account. This helps you to **maximize your odds of success**.
 
 - **Goals** that should be reflected in the prioritization are the **maximization of customer value**, the **maximization of business value** and the **minimization of development efforts**.
-- There exist **constraints** such as **technical** or **external dependencies** that also need to be taken into account. 
-- **Examining** product backlog items **from different perspectives** creates transparency and insights for **taking better prioritization decisions**. 
+- There exist **constraints** such as **technical** or **external dependencies** that also need to be taken into account.
+- **Examining** product backlog items **from different perspectives** creates transparency and insights for **taking better prioritization decisions**.
 - The three most relevant perspectives are the **customer perspective**, the **development perspective** and the **business perspective**.
-
 
 {% if site.include_downloads == true %}
 {% include cube_downloads.md %}
@@ -112,4 +110,4 @@ The **CUBE method** can greatly **help you** to **take more rationale prioritiza
 
 If you're interested in CUBE, don't hesitate to get in touch ({% include get_in_touch.html %})!
 
-There's a lot of material that I have developed to teach the CUBE priorization method as well as tools to apply it. 
+There's a lot of material that I have developed to teach the CUBE priorization method as well as tools to apply it.

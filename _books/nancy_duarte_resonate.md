@@ -16,4 +16,3 @@ Duarte's emphasis on connecting emotionally with the audience has resonated deep
 One of the standout aspects of 'Resonate' is Duarte's use of real-world examples and case studies. These practical illustrations have provided me with concrete guidance on how to apply her principles to my own presentations. From dissecting iconic speeches to breaking down successful communication techniques, Duarte's book offers a wealth of actionable insights that have elevated my presentation skills to a new level. In my journey as a product manager, 'Resonate' has become an indispensable resource, enabling me to effectively convey ideas, inspire action, and leave a lasting impression."
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="100%" height="600px" frameborder="0" allowfullscreen style="max-width:100%" src="https://lesen.amazon.de/kp/card?asin=B00F0U74IQ&preview=inline&linkCode=kpe&ref_=cm_sw_r_kb_dp_MFD2FM6CJKDK5V409DSJ" ></iframe>
-

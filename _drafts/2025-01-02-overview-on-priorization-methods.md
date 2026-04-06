@@ -12,6 +12,7 @@ Let's explore two contrasting scenarios to understand the challenges of prioriti
 
 **Scenario 1: Innovation Lab at a FinTech Company**  
 The team has identified three potential areas for innovation:
+
 - Integrating AI for fraud detection
 - Building a subscription management platform
 - Creating a mobile-first investment app
@@ -20,6 +21,7 @@ With limited resources for customer research and proof-of-concepts, how do they 
 
 **Scenario 2: Established E-commerce Platform**  
 After validating the need for better inventory management, the team has planned:
+
 - Real-time stock updates
 - Automated reorder points
 - Supplier integration API
@@ -36,40 +38,52 @@ In both scenarios, prioritization is key. Different phases of product developmen
 Here are some widely used prioritization methods in agile software development, along with their key features and applications:
 
 ### 1. MoSCoW Method
+
 This method categorizes tasks into:
+
 - **Must have**: Essential requirements critical for success.
 - **Should have**: Important but not immediately necessary.
 - **Could have**: Nice-to-have features.
 - **Won't have**: Features to defer for this iteration.
 
 ### 2. Kano Model
+
 This model evaluates features based on customer satisfaction:
+
 - **Basic Needs**: Essential features customers expect.
 - **Performance Needs**: Features that proportionally increase satisfaction.
 - **Excitement Needs**: Unexpected features that delight customers.
 
 ### 3. RICE Scoring
+
 This quantitative method scores features based on:
+
 - **Reach**: Number of users impacted.
 - **Impact**: Effect on the user.
 - **Confidence**: Certainty of the estimates.
 - **Effort**: Work required to implement.
 
 ### 4. ICE Scoring
+
 Similar to RICE, but simplified:
+
 - **Impact**: Potential benefit.
 - **Confidence**: Certainty of impact and ease estimates.
 - **Ease**: Simplicity of implementation.
 
 ### 5. Value vs. Effort Matrix
+
 This visual approach maps features based on value and effort:
+
 - **High Value, Low Effort**: Top priority.
 - **High Value, High Effort**: Consider carefully.
 - **Low Value, Low Effort**: Nice-to-have.
 - **Low Value, High Effort**: Avoid.
 
 ### 6. CUBE Method
+
 This method focuses on:
+
 - **Customer Value**: Benefit to the user.
 - **Urgency**: Time sensitivity.
 - **Business Value**: Benefit to the business.
@@ -78,6 +92,7 @@ This method focuses on:
 ## Practical Applications of Prioritization Methods
 
 Each method shines in specific contexts. For example:
+
 - **Startups** benefit from the simplicity of ICE scoring to evaluate ideas quickly.
 - **Customer-centric teams** often rely on the Kano Model to identify features that delight.
 - **Established businesses** may use the CUBE Method for balancing customer needs and business goals.
