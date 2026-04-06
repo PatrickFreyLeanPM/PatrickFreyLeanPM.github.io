@@ -11,6 +11,8 @@ In most product organizations, weekly syncs with product managers (PMs) and prod
 
 While this serves a functional purpose, it raises a critical question: **Is merely updating on tasks truly leading the product?**
 
+<!-- excerpt -->
+
 As a Senior Product Manager working in a collaborative team, I’ve observed a key distinction between meetings that focus on status updates and the kind of strategic leadership that drives real product alignment. The difference lies in the depth of thought leadership and vision that’s brought into the conversation.
 
 ## 1. Status Meetings: Reactive vs. Proactive

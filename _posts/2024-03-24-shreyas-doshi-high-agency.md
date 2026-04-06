@@ -12,6 +12,8 @@ A recent [LinkedIn post by Marty Cagan](https://www.linkedin.com/feed/update/urn
 
 Shreyas discusses the concept of **High Agency**, an essential quality he's observed in successful leaders. High Agency involves taking **proactive steps to achieve goals without waiting for ideal conditions**.
 
+<!-- excerpt -->
+
 Shreyas contrasts High Agency individuals, who drive change and overcome challenges, with those lacking agency, who blame external factors for their setbacks. He emphasizes the importance of High Agency alongside talent and integrity, urging leaders to prioritize it when hiring. Shreyas provides insights into cultivating High Agency, recommending revisiting Stephen Covey's "7 Habits of Highly Effective People" and focusing on traits like an **ownership mindset** and **skills like creative execution**.
 
 He acknowledges the challenges but encourages readers to learn and embody High Agency for personal and professional growth.

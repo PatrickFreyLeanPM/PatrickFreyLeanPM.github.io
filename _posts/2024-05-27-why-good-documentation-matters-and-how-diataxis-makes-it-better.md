@@ -13,6 +13,8 @@ image: /assets/posts/diataxis.webp
 
 Good documentation is crucial for the success of any software project. It ensures that users can effectively understand and utilize a product, reduces the need for extensive support, and helps maintain a high standard of quality. Despite its importance, many projects suffer from poor documentation, which can lead to frustration and inefficiency for both users and developers.
 
+<!-- excerpt -->
+
 ### Common Pains for Readers of Documentation
 
 1. **Difficulty Finding Information**: Users often struggle to locate the specific information they need due to poor organization or unclear navigation.
