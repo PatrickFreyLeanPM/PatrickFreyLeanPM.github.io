@@ -5,7 +5,7 @@ title: Slide:ology - The Art and Science of Creating Great Presentations
 order: 7
 amazon_link: https://amzn.eu/d/eKrcuDH
 summary: 
-cover_image: nancy_duarte_slideology.jpg
+cover_image: nancy_duarte_slideology.webp
 ---
 
 "Nancy Duarte's 'Slideology' was an interesting read that provided valuable insights into creating visually engaging presentations. While I found the book to be informative and well-crafted, I must admit that I haven't fully integrated its principles into my day-to-day business practices as a product manager.

@@ -5,7 +5,7 @@ title: Evidence Guided
 order: 14
 amazon_link: 
 summary: 
-cover_image: itamar_gilad_evidence_guided.jpg
+cover_image: itamar_gilad_evidence_guided.webp
 ---
 
 End of 2022, I was lucky enough to attend a Lean Product Management training by Itamar Gilad sponsored by my employer [ETAS GmbH](http://www.etas.com){:target="_blank"}. The training was organized by the Bosch School of Product Management - a network of product management experts that actively drive lean product management practices forwards within Bosch. 
@@ -22,7 +22,7 @@ The book is thus a good companion to the workshop material and a good read as we
 
 * The **[Confidence meter](https://itamargilad.com/the-tool-that-will-help-you-choose-better-product-ideas/){:target="_blank"}** is an instrument that supports the priorization of ideas using the ICE priorization method. ICE stands for Impact, Confidence and Ease. 
 
-<img src="{{ '/assets/itamar_gilad/GIST.jpg' | relative_url }} " alt="GIST framework" width="45%" loading="lazy">
+<img src="{{ '/assets/itamar_gilad/GIST.webp' | relative_url }} " alt="GIST framework" width="45%" loading="lazy">
 <img src="{{ '/assets/itamar_gilad/Confidence_Meter.png' | relative_url }}" alt="The Confidence meter" width="47%" loading="lazy">  
 
 ## ICE vs CUBE prioritization

@@ -5,7 +5,7 @@ title: Delivering Happiness
 order: 5
 amazon_link: Delivering Happiness
 summary:
-cover_image: tony_hsieh_delivering_happiness.jpg
+cover_image: tony_hsieh_delivering_happiness.webp
 ---
 
 Zappos was an online shoe retailer founded by Tony Hsieh. It was sold to Amazon in 2009 for 1.2 billion USD. (I assume it was a good fit not only to Amazon's business model, but also a value-fit due to Zappos focus on customer happyness).

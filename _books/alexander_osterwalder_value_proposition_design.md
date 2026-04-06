@@ -5,7 +5,7 @@ title: Value Proposition Design - How to Create Products and Services Customers 
 order: 9
 amazon_link: https://amzn.eu/d/iPEzGYJ
 summary: 
-cover_image: alexander_osterwalder_value_proposition_design.jpg
+cover_image: alexander_osterwalder_value_proposition_design.webp
 ---
 
 "Value Proposition Design" by Alexander Osterwalder has been an influential resource in shaping my perspective on creating effective solutions and products. The book's focus on the Value Proposition Canvas has provided me with a practical tool to analyze and enhance the value that my offerings provide to customers. This approach has profoundly impacted how I approach product development and solution design.

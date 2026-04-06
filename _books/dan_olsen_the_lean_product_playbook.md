@@ -5,7 +5,7 @@ title: The Lean Product Playbook
 order: 12
 amazon_link: https://www.amazon.de/Lean-Product-Playbook-Innovate-Products/dp/1118960874
 summary: "The Lean Product Playbook by Dan Olsen is a comprehensive guidebook for creating successful products using the principles of Lean Startup and Lean Product Development."
-cover_image: dan_olsen_the_lean_product_playbook.jpg
+cover_image: dan_olsen_the_lean_product_playbook.webp
 source: https://chat.openai.com/share/79f0e52c-edb1-43f8-a4cb-26224a69fc8e
 ---
 
@@ -27,7 +27,7 @@ Part Three focuses on growth strategies and scaling the product. Olsen discusses
 
 One of the main contributions by Dan Olsen is the **Product-Market Fit Pyramid**. This pyramid represents the different levels of product-market fit, with each level building upon the previous one. 
 
-<img src="{{ '/assets/books/dan_olsen_product_market_fit_pyramid.jpg' | relative_url }}" alt="Product-Market Fit Pyramid" loading="lazy">
+<img src="{{ '/assets/books/dan_olsen_product_market_fit_pyramid.webp' | relative_url }}" alt="Product-Market Fit Pyramid" loading="lazy">
 
 The levels are as follows (from bottom to top):
 

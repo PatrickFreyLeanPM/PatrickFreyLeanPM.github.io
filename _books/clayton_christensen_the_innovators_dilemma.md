@@ -5,7 +5,7 @@ title: The Innovators Dilemma
 order: 3
 amazon_link: https://amzn.eu/d/7XIfAN2
 summary: 
-cover_image: clayton_christensen_the_innovators_dilemma.jpg
+cover_image: clayton_christensen_the_innovators_dilemma.webp
 ---
 
 "The Innovator's Dilemma" by Clayton M. Christensen delves into the complex realm of innovation, exploring the challenges faced by both disruptive and evolutionary product managers. Christensen's insights resonate deeply with my experience as a product manager primarily engaged in evolutionary innovation. His analysis of why well-managed companies can often fail to adapt to disruptive technologies provides valuable lessons for those, like me, navigating the evolving landscape of product development.

@@ -15,7 +15,7 @@ Strategic horizons refer to different levels of planning that guide an organizat
 3. **Horizon 3 - Transformational Innovations:** Horizon 3 is about pursuing disruptive and transformational innovations. This could involve exploring emerging technologies, creating entirely new product lines, or entering entirely new markets.
 
 <!--
-![Strategic Horizons Model]({{ '/assets/concepts/strategic_horizons_model.jpg' | relative_url }})
+![Strategic Horizons Model]({{ '/assets/concepts/strategic_horizons_model.webp' | relative_url }})
 -->
 
 ![Strategic Horizons Model]({{ '/assets/concepts/strategic_horizons_model_gilad.png' | relative_url }})

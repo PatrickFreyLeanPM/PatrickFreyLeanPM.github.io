@@ -5,7 +5,7 @@ title: Rework
 order: 13
 amazon_link: 
 summary: 
-cover_image: jason_fried_dhh_rework.jpg
+cover_image: jason_fried_dhh_rework.webp
 ---
 
 "Jason Fried and David Heinemeier Hansson's 'Rework' is a refreshing take on business and productivity that challenges conventional wisdom. The book's direct and no-nonsense approach resonated with me, offering a different perspective on how to approach work and entrepreneurship. While I might not agree with every single idea presented, the book's thought-provoking content has encouraged me to question established norms and consider alternative strategies in my role as a product manager.

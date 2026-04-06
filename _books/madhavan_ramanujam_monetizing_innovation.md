@@ -5,7 +5,7 @@ title: Monetizing Innovation
 order: 15
 amazon_link: https://www.amazon.de/-/en/Madhavan-Ramanujam/dp/1119240867
 summary: 
-cover_image: madhavan_ramanujam_monetizing_innovation.jpg
+cover_image: madhavan_ramanujam_monetizing_innovation.webp
 ---
 
 I stumbled upon this gem of a book recently (March 2024), and its contents have left me pleasantly surprised. 

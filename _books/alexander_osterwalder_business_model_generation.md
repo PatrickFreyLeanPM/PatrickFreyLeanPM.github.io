@@ -5,7 +5,7 @@ title: Business Model Generation - A Handbook for Visionaries, Game Changers, an
 order: 8
 amazon_link: https://amzn.eu/d/3ybzYzj
 summary: 
-cover_image: alexander_osterwalder_business_model_generation.jpg
+cover_image: alexander_osterwalder_business_model_generation.webp
 ---
 
 "Business Model Generation" by Alexander Osterwalder is a groundbreaking book that has significantly impacted my approach to developing successful business strategies. Osterwalder's innovative Business Model Canvas provides a clear and comprehensive framework for analyzing, designing, and adapting business models. The book's visual and collaborative approach has been an instrumental tool in shaping my understanding of business dynamics.

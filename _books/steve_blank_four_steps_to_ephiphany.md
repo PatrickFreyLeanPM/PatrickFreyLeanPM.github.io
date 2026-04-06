@@ -5,7 +5,7 @@ title: The Four Steps to the Epiphany
 order: 4
 amazon_link: https://amzn.eu/d/exvt84w
 summary: 
-cover_image: steve_blank_four_steps_to_ephiphany.jpg
+cover_image: steve_blank_four_steps_to_ephiphany.webp
 ---
 
 "The Four Steps to the Epiphany" by Steve Blank has been a transformative read for my journey as a dedicated product manager. Blank's systematic approach to customer development resonates deeply with my passion for creating products that truly meet user needs. His emphasis on validating hypotheses through continuous customer interaction has significantly refined my approach to product ideation and development.

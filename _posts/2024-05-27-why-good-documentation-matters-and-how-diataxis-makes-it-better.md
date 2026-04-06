@@ -132,7 +132,7 @@ This was when I discovered the Diátaxis framework / Divio documentation system.
 
 Check out the [EHANDBOOK Docs & Tutorials](https://ehandbook.etas.com/docs/ehandbook/container_build.html){:target="_blank"} to get a glimpse.
 
-![EHANDBOOK Docs & Tutorials]({{ '/assets/posts/ehandbook_docs_diataxis.jpg' | relative_url }})
+![EHANDBOOK Docs & Tutorials]({{ '/assets/posts/ehandbook_docs_diataxis.webp' | relative_url }})
 {: loading="lazy"}
 
 ## Get in Touch

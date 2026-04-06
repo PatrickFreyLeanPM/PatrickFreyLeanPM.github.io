@@ -5,7 +5,7 @@ title: Resonate - Present Visual Stories that Transform Audiences
 order: 6
 amazon_link: https://amzn.eu/d/1pXJpf7
 summary: 
-cover_image: nancy_duarte_resonate.jpg
+cover_image: nancy_duarte_resonate.webp
 ---
 
 
