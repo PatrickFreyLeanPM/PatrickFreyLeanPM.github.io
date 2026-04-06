@@ -11,8 +11,8 @@ As the methods and tools have served me well, I want to share them to help other
 <!--
 ## Own proven methods
 
-* **Prioritizing** development efforts with help of the [CUBE prioritization method]({% link methods_and_tools/cube.markdown %})
-* **Deriving prices and sales argumentations** by means of [value-based pricing]({% link methods_and_tools/value_based_pricing.markdown %}), a [pricing method]({% link methods_and_tools/pricing_methods.markdown %}) that is deemed superior to other pricing and integrates very well with approaches and methods used in new product development.
+* **Prioritizing** development efforts with help of the [CUBE prioritization method]({% link methods_and_tools/cube.md %})
+* **Deriving prices and sales argumentations** by means of [value-based pricing]({% link methods_and_tools/value_based_pricing.md %}), a [pricing method]({% link methods_and_tools/pricing_methods.md %}) that is deemed superior to other pricing and integrates very well with approaches and methods used in new product development.
 -->
 
 {% include cube_teaser.html %}

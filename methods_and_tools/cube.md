@@ -105,7 +105,7 @@ The **CUBE method** can greatly **help you** to **take more rationale prioritiza
 
 
 {% if site.include_downloads == true %}
-{% include cube_downloads.markdown %}
+{% include cube_downloads.md %}
 {% endif %}
 
 ## Interested?

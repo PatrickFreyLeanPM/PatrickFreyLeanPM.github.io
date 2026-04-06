@@ -40,13 +40,13 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-header_pages: 
-  - about.markdown
-  - services.md  
-  - custom_methods_tools.markdown      
-  - blog.markdown
-#  - people.markdown
-  - concepts.md  
+header_pages:
+  - about.md
+  - services.md
+  - custom_methods_tools.md
+  - blog.md
+#  - people.md
+  - concepts.md
   - books.md
 
 collections:

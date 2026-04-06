@@ -105,7 +105,7 @@ Value-based pricing is a method for deriving and arguing prices for products or 
 
 
 {% if site.include_downloads == true %}
-{% include value_based_pricing_downloads.markdown %}
+{% include value_based_pricing_downloads.md %}
 {% endif %}
 
 ## Interested?
