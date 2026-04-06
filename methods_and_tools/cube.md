@@ -106,6 +106,10 @@ The **CUBE method** can greatly **help you** to **take more rationale prioritiza
 {% include cube_downloads.md %}
 {% endif %}
 
+## Get the Free Materials
+
+Ready to start using CUBE? **[Get the free ebook (62 pages) and slides (75 slides)]({{ '/cube-landing/' | relative_url }})** — all the practical guidance you need to prioritize your backlog with confidence.
+
 ## Interested?
 
 If you're interested in CUBE, don't hesitate to get in touch ({% include get_in_touch.html %})!

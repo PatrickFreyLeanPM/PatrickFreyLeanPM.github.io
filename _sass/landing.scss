@@ -1,0 +1,414 @@
+// Landing page styles for conversion-optimized layouts
+// Used by /cube-landing/ and similar pages
+
+.landing-page {
+  width: 100%;
+}
+
+// Full-width sections
+.landing-section {
+  width: 100%;
+  padding: 60px 0;
+
+  @include media-query($on-palm) {
+    padding: 40px 0;
+  }
+}
+
+.landing-section--hero {
+  background-color: $color2-10;
+
+  @include media-query($on-palm) {
+    background-color: $color2-10;
+  }
+}
+
+.landing-section--alt {
+  background-color: $color9;
+
+  @include media-query($on-palm) {
+    background-color: $color9;
+  }
+}
+
+.landing-section--dark {
+  background-color: $color2;
+  color: white;
+
+  h2, h3, p, a {
+    color: white;
+  }
+
+  a:not(.button) {
+    color: #fff;
+    text-decoration: underline;
+
+    &:hover {
+      color: $color2-10;
+    }
+  }
+}
+
+// Container for section content
+.landing-inner {
+  max-width: 1190px;
+  margin: 0 auto;
+  padding: 0 $spacing-unit;
+
+  @include media-query($on-laptop) {
+    padding: 0 $spacing-unit / 2;
+  }
+
+  @include media-query($on-palm) {
+    padding: 0 $spacing-unit / 2;
+  }
+}
+
+// Hero section grid (55% text + 45% image)
+.landing-hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+  align-items: center;
+
+  @include media-query($on-laptop) {
+    gap: 40px;
+  }
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+}
+
+.landing-hero-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.landing-hero-tag {
+  display: inline-block;
+  background-color: $color2;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  width: fit-content;
+}
+
+.landing-hero-headline {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  color: $text-color;
+  margin: 0;
+
+  @include media-query($on-laptop) {
+    font-size: 2rem;
+  }
+
+  @include media-query($on-palm) {
+    font-size: 1.8rem;
+  }
+}
+
+.landing-hero-subheading {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: $text-color;
+  margin: 0;
+}
+
+.landing-hero-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+// Section title (h2 centered)
+.landing-section-title {
+  font-size: 2.2rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 50px;
+  line-height: 1.3;
+
+  @include media-query($on-laptop) {
+    font-size: 2rem;
+    margin-bottom: 40px;
+  }
+
+  @include media-query($on-palm) {
+    font-size: 1.6rem;
+    margin-bottom: 30px;
+  }
+}
+
+.landing-section-subtitle {
+  font-size: 1.05rem;
+  text-align: center;
+  margin-bottom: 40px;
+  line-height: 1.6;
+  color: $grey-color;
+}
+
+// CTA button row (flex, gap, centered)
+.landing-cta-row {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+
+  @include media-query($on-palm) {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 12px;
+  }
+}
+
+// Button styling on dark section
+.landing-section--dark .button {
+  background-color: white;
+  color: $color2;
+  border-color: white;
+  font-weight: 600;
+
+  &:hover {
+    background-color: $color2-10;
+    border-color: $color2-10;
+    color: $color2;
+  }
+}
+
+// Problem/benefit grid (3-column)
+.landing-problem-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  margin-bottom: 30px;
+
+  @include media-query($on-laptop) {
+    gap: 30px;
+  }
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+.landing-problem-item {
+  p {
+    margin: 0;
+    font-size: 1.05rem;
+    line-height: 1.6;
+  }
+}
+
+// Method grid (3-column: CU / BU / DE)
+.landing-method-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  margin-bottom: 40px;
+
+  @include media-query($on-laptop) {
+    gap: 30px;
+  }
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+.landing-method-card {
+  h3 {
+    font-size: 1.25rem;
+    margin-bottom: 15px;
+    color: $color2;
+  }
+
+  p {
+    margin: 0;
+    line-height: 1.6;
+    font-size: 0.95rem;
+  }
+}
+
+// Resources grid (2-column: ebook + slides)
+.landing-resources-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+
+  @include media-query($on-laptop) {
+    gap: 40px;
+  }
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+}
+
+.landing-resource-item {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.landing-resource-image {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.landing-resource-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  p {
+    margin: 0;
+    line-height: 1.6;
+  }
+}
+
+// Credentials strip (flex row, wrap)
+.landing-credentials-row {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  gap: 30px;
+  flex-wrap: wrap;
+
+  @include media-query($on-palm) {
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+  }
+}
+
+.landing-credential-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  flex: 1;
+  min-width: 200px;
+  max-width: 300px;
+}
+
+.landing-credential-image {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+}
+
+.landing-credential-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: $text-color;
+}
+
+.landing-credential-description {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: $grey-color;
+  margin: 0;
+}
+
+// Testimonial grid (3-column equal)
+.landing-testimonial-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+  margin-bottom: 20px;
+
+  @include media-query($on-laptop) {
+    gap: 25px;
+  }
+
+  @include media-query($on-palm) {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+
+.landing-testimonial-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 25px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+  .testimonial-quote {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    margin: 0;
+    font-style: italic;
+    color: $text-color;
+  }
+
+  .testimonial-attribution {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: $color2;
+    margin: 0;
+  }
+}
+
+// Landing page bottom padding
+.landing-page {
+  margin-bottom: 0;
+}
+
+// Optional: Quote block styling override for landing pages
+.landing-section blockquote {
+  background-color: $color9;
+  border-left: 4px solid $color2;
+  padding: 20px 25px;
+  margin: 30px 0;
+  font-size: 1.05rem;
+  line-height: 1.7;
+
+  @include media-query($on-palm) {
+    padding: 15px 20px;
+    font-size: 1rem;
+  }
+}
+
+// Final CTA section content centering
+.landing-section--dark .landing-inner {
+  text-align: center;
+}
+
+.landing-section--dark .landing-cta-row {
+  justify-content: center;
+}
+
+// Podcast embed wrapper
+.landing-podcast-wrapper {
+  max-width: 100%;
+  margin: 40px 0;
+}
+
+// Contact link styling for dark section
+.landing-section--dark {
+  a svg {
+    filter: brightness(0) invert(1);
+  }
+}
