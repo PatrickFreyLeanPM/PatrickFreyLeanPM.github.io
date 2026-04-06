@@ -66,6 +66,12 @@ Due to my current role, **I have limited availability**. This means:
 
 *Best if:* You want to spark change across your organization, get teams aligned on modern approaches, or bring in an external perspective on what's possible in traditional industries.
 
+**Evidence:**
+
+<div class="embedded-linkedin-post">
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7027977028775632896" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</div>
+
 ---
 
 ## How to Start
