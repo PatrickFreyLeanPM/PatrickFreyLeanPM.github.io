@@ -1,0 +1,57 @@
+<!-- Page transition effects for smooth navigation -->
+<style>
+  body { opacity: 0; }
+</style>
+<div id="page-progress"></div>
+
+<script>
+  // Fade in page on load
+  document.addEventListener('DOMContentLoaded', function() {
+    document.body.style.opacity = '1';
+  });
+
+  // Fade out page before navigation
+  document.addEventListener('click', function(e) {
+    const link = e.target.closest('a');
+
+    // Only handle internal same-origin links
+    if (!link) return;
+
+    const href = link.getAttribute('href');
+    if (!href) return;
+
+    // Skip external links, blank targets, and anchor links
+    if (
+      link.target === '_blank' ||
+      link.target === '_self' && link.getAttribute('target') === '_blank' ||
+      href.startsWith('http') ||
+      href.startsWith('//') ||
+      href.startsWith('#') ||
+      href.startsWith('mailto:') ||
+      href.startsWith('tel:')
+    ) {
+      return;
+    }
+
+    // Check if it's same origin
+    const url = new URL(href, window.location.origin);
+    if (url.origin !== window.location.origin) {
+      return;
+    }
+
+    // Prevent default and animate page out
+    e.preventDefault();
+
+    // Show progress bar
+    const progressBar = document.getElementById('page-progress');
+    progressBar.style.width = '70%';
+
+    // Fade out page
+    document.body.style.opacity = '0';
+
+    // Navigate after fade
+    setTimeout(function() {
+      window.location.href = href;
+    }, 150);
+  });
+</script>

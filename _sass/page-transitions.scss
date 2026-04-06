@@ -1,0 +1,22 @@
+/**
+ * Page transition effects
+ *
+ * Provides smooth fade-in/fade-out effects when navigating between pages
+ * on this multi-page Jekyll site.
+ */
+
+body {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+#page-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background-color: $color1;
+  width: 0;
+  z-index: 9999;
+  transition: width 0.3s ease;
+}
