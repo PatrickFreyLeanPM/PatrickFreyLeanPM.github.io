@@ -5,21 +5,146 @@ layout: default
 
 <style type="text/css" media="screen">
   .container {
-    margin: 10px auto;
-    max-width: 600px;
+    margin: 40px auto;
+    max-width: 700px;
     text-align: center;
+    padding: 0 20px;
   }
+
   h1 {
-    margin: 30px 0;
+    margin: 30px 0 10px;
     font-size: 4em;
     line-height: 1;
     letter-spacing: -1px;
+    color: #333;
+  }
+
+  .error-message {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 40px;
+  }
+
+  .search-box {
+    margin: 40px 0;
+    padding: 30px;
+    background: #f5f5f5;
+    border-radius: 8px;
+  }
+
+  .search-box h2 {
+    margin-top: 0;
+    font-size: 1.3em;
+  }
+
+  .search-form {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+    flex-wrap: wrap;
+  }
+
+  .search-form input {
+    flex: 1;
+    min-width: 200px;
+    padding: 12px;
+    font-size: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+
+  .navigation {
+    margin: 50px 0;
+  }
+
+  .navigation h2 {
+    font-size: 1.3em;
+    margin-bottom: 20px;
+  }
+
+  .nav-links {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+    margin-bottom: 40px;
+  }
+
+  .popular-content {
+    margin: 40px 0;
+    padding: 30px;
+    background: #f5f5f5;
+    border-radius: 8px;
+  }
+
+  .popular-content h2 {
+    font-size: 1.3em;
+    margin-top: 0;
+  }
+
+  .popular-list {
+    text-align: left;
+    max-width: 500px;
+    margin: 20px auto;
+  }
+
+  .popular-list li {
+    margin: 10px 0;
+  }
+
+  .popular-list a {
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .popular-list a:hover {
+    text-decoration: underline;
+  }
+
+  .home-link {
+    margin-top: 40px;
   }
 </style>
 
 <div class="container">
   <h1>404</h1>
+  <p class="error-message"><strong>Page not found</strong></p>
+  <p>The page you're looking for doesn't exist or has moved.</p>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <div class="search-box">
+    <h2>Search the site</h2>
+    <form class="search-form" action="{{ '/search' | relative_url }}" method="get" style="flex-wrap: wrap;">
+      <input type="text" name="q" placeholder="Search articles, concepts, books..." required>
+      <button type="submit" class="button">Search</button>
+    </form>
+    <p style="font-size: 0.9em; color: #666; margin: 10px 0 0;">Or visit the <a href="{{ '/search' | relative_url }}">full search page</a></p>
+  </div>
+
+  <div class="navigation">
+    <h2>Explore the site</h2>
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}" class="button">Home</a>
+      <a href="{{ '/about' | relative_url }}" class="button">About</a>
+      <a href="{{ '/blog' | relative_url }}" class="button">Blog</a>
+      <a href="{{ '/concepts' | relative_url }}" class="button">Concepts</a>
+      <a href="{{ '/books' | relative_url }}" class="button">Books</a>
+      <a href="{{ '/custom_methods_and_tools' | relative_url }}" class="button">Methods & Tools</a>
+      <a href="{{ '/services' | relative_url }}" class="button">Services</a>
+    </div>
+  </div>
+
+  <div class="popular-content">
+    <h2>Popular topics</h2>
+    <ul class="popular-list">
+      <li><a href="{{ '/concepts/01_product_discovery' | relative_url }}">Product Discovery</a></li>
+      <li><a href="{{ '/concepts/02_strategy' | relative_url }}">Product Strategy</a></li>
+      <li><a href="{{ '/concepts/04_value_proposition' | relative_url }}">Value Proposition</a></li>
+      <li><a href="{{ '/methods_and_tools/value_based_pricing' | relative_url }}">Value-Based Pricing</a></li>
+      <li><a href="{{ '/blog' | relative_url }}">Latest blog posts</a></li>
+    </ul>
+  </div>
+
+  <div class="home-link">
+    <a href="{{ '/' | relative_url }}" class="button">← Back to Home</a>
+  </div>
 </div>

@@ -20,11 +20,7 @@ In the eBook (62 pages) I explain how to prioritize a product backlog with the C
             </div>
         </a>
         -->
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCoCRKM2hvPj4FD6zze4vmz17Rwv6JZI4rl9lA5UCW1dtcPw/viewform?usp=sf_link" download style="text-decoration: none;" target="_blank">
-            <div class="button">
-                Get ebook (62 pages)
-            </div>
-        </a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCoCRKM2hvPj4FD6zze4vmz17Rwv6JZI4rl9lA5UCW1dtcPw/viewform?usp=sf_link" class="button" target="_blank">Get ebook (62 pages)</a>
     </div>
 </div>
 <br/>
@@ -47,11 +43,7 @@ In the presentation (76 slides) I explain how to prioritize a product backlog wi
             </div>
         </a>
         -->
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6HcqmnPv0a7gprBqR_OhZ3nRHDKy1CuiRlxQtTC6T2NrgTg/viewform?usp=sf_link" download style="text-decoration: none;" target="_blank">
-            <div class="button">
-                Get presentation (75 slides)  
-            </div>
-        </a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6HcqmnPv0a7gprBqR_OhZ3nRHDKy1CuiRlxQtTC6T2NrgTg/viewform?usp=sf_link" class="button" target="_blank">Get presentation (75 slides)</a>
     </div>
 </div>
 <br/>
