@@ -42,11 +42,11 @@ plugins:
 
 header_pages: 
   - about.markdown
-  - concepts.md
-  - custom_methods_tools.markdown  
-  - services.md
+  - services.md  
+  - custom_methods_tools.markdown      
   - blog.markdown
 #  - people.markdown
+  - concepts.md  
   - books.md
 
 collections:
@@ -63,8 +63,8 @@ collections:
     output: true
     sort_by: order    
 
-exclude:
-  services.md
+#exclude:
+#  services.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.

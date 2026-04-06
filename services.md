@@ -2,27 +2,84 @@
 layout: page
 title: Services
 permalink: /services/
-#https://productmatters.io/
+description: "Coaching and consulting for product leaders navigating change in large organizations. Limited availability."
 ---
 
-# Assessment
+**I work with product leaders in large organizations who are driving modern product practices despite organizational complexity, legacy systems, and structural constraints.**
 
-No matter if you want our opinion on a single process or a 360° look at your entire organization, we take a close look at your company to understand what works and what does not and will provide you with an action plan.
+After 20+ years at Bosch/ETAS (automotive/engineering sector), I've learned how to make things happen in environments where change is hard. I help others do the same.
 
-We identify your main gaps to the industry best practice and give crisp & tailored recommendations on how to improve.
+---
 
-* Product Discovery & Innovation
-* Product Development
-* Pricing
-* UX
+## What I Work On
 
-# Coaching
+**Navigating corporate product environments:**
 
-Working through real life situations with another practitioner’s expertise is by far the most effective way to learn and improve.
+- Introducing lean/agile practices while the organization still operates differently
+- Building evidence-guided decision-making in bureaucratic settings  
+- Scaling product teams across silos and legacy structures
+- Getting your ideas adopted organization-wide (not just in your corner)
 
-I offer coaching for executives, team leaders and individual contributors in Product Innovation, Development, Marketing and Sales.
+**The approach:**
+I believe the best learning happens through working on *your actual situation*—not generic frameworks. We figure out what works for *your* organization, culture, and constraints.
 
+---
 
-## Interested?
+## How I Work
 
-Get in touch ({% include get_in_touch.html %})!
+Due to my current role, **I have limited availability**. This means:
+
+- I take on a small number of clients
+- I'm selective about engagements
+- You get focused, committed time (not reactive availability)
+
+### Option 1: Coaching Calls (Ongoing)
+
+**For product leaders navigating change or transitioning into new roles**
+
+- 1-on-1 sessions (60 min, weekly or biweekly)
+- Work through real situations
+- Peer advice + reflection from someone who's been there
+- Duration: typically 8-12 weeks (or ongoing)
+
+*Best if:* You want consistent support, a sounding board, and someone who understands enterprise PM challenges.
+
+### Option 2: Consulting Engagements (Project-Based)
+
+**For specific challenges or organizational initiatives**
+
+- 3-5 sessions over 2-3 months
+- Diagnose the situation, provide concrete recommendations
+- Often includes a brief workshop or recommendation memo
+- Ad-hoc as needed within that window
+
+*Best if:* You're stuck on a specific problem (adoption strategy, team structure, process design, etc.) and want to move fast.
+
+---
+
+## How to Start
+
+I'm **validating what works** right now—so I'm offering **free exploratory sessions** for the first few clients to see if there's a fit.
+
+**If you're interested:**
+
+1. **Reach out** with a brief note about:
+   - Your role and organization size
+   - What you're navigating right now
+   - Whether you prefer ongoing coaching or a project engagement
+
+2. **We'll have a conversation** (~30 min, no commitment) to see if this makes sense for both of us
+
+3. **If there's a fit**, we figure out format, timing, and next steps
+
+---
+
+## Get In Touch
+
+**{% include get_in_touch.html %}**
+
+Mention **"Services"** in the subject line so I know what you're reaching out about.
+
+---
+
+*Note: I'm new to offering services and learning as I go. That means I'm genuinely interested in your feedback on what's working, what isn't, and how this could be more useful.*
