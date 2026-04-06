@@ -47,6 +47,10 @@ On this site, I share [my experiences, personal views]({{ '/blog' | relative_url
 
 Over the past 15 years, I have **tried out** a lot of methods, **adopted many** of them and even **developed** a set of <a href="{{ site.url }}/custom_methods_and_tools/">**own methods and supporting tools**</a> that have helped me to create a **successful new B2B business** at an existing large corporation.
 
+<h2>Services</h2>
+
+I offer <a href="{{ '/services' | relative_url }}">coaching, consulting, and speaking services</a> for product teams and leaders. I help with <a href="{{ '/concepts' | relative_url }}">product discovery and strategy</a>, <a href="{{ '/custom_methods_and_tools' | relative_url }}">prioritization and value identification</a>, <a href="{{ '/custom_methods_and_tools' | relative_url }}">pricing</a>, and sales argumentation — whether you're in a startup or navigating change in a complex organization.
+
 ## Interested? Get in touch
 
 If you're interested in lean product management in general or topics such as prioritization and value-based pricing, don't hesitate to get in touch ({% include get_in_touch.html %})!
