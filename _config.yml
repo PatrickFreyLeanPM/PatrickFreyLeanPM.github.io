@@ -40,6 +40,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# SCSS and CSS compression
+sass:
+  style: compressed
+
 header_pages:
   - about.md
   - services.md
