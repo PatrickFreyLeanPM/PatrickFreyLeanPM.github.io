@@ -8,21 +8,23 @@ image: /assets/Patrick_Frey_square_800x800.jpg
 
 I am a **passionate product manager** with over **15 years' experience**. I am working at [ETAS GmbH](http://www.etas.com){:target="_blank"}, a 100% subsidiary of [Bosch](http://www.bosch.com){:target="_blank"} [#likeabosch](https://www.youtube.com/results?search_query=likeabosch){:target="_blank"}. I have worked with cross-functional, interdisciplinary product teams building great tools that help automotive engineers to succeed with developing embedded software for future vehicles.
 
-# Products / solutions I have led and contributed to
+<img class="profilepicture" src="{{ '/assets/Patrick_Frey_square_640x564_transparent_background.png' | relative_url }}" alt="Patrick Frey" loading="eager" style="max-width: 300px; margin: 20px 0;">
+
+## Products / solutions I have led and contributed to at ETAS/Bosch
 
 * [ETAS EHANDBOOK]({{ '/ehandbook' | relative_url }})
 * [ETAS Deterministic Middleware Solution]({{ '/edms' | relative_url }})
 
-# My take on product management
+## My take on product management
 
-In 2013, I had the luck to participate in a product management workshop led by Marty Cagan from [Silicon Valley Product Group (SPVG)](https://www.svpg.com/){:target="_blank"}. 
+In 2013, I had the luck to participate in a product management workshop led by Marty Cagan from [Silicon Valley Product Group (SPVG)](https://www.svpg.com/){:target="_blank"}.
 
-At that time, I was working as product manager on the first version of ETAS EHANDBOOK. 
+At that time, I was working as product manager on the first version of ETAS EHANDBOOK.
 
-In the workshop, Marty shared a lot of knowledge on how successful product teams work and create value for their customers. Besides the inspirational workshop, Marty also shared a copy of his book **Inspired: How to create products customers love.** with each of the participants. 
+In the workshop, Marty shared a lot of knowledge on how successful product teams work and create value for their customers. Besides the inspirational workshop, Marty also shared a copy of his book **Inspired: How to create products customers love.** with each of the participants.
 
-Marty's workshop was a spark. From then on, I was all on fire to become the best product manager  I can be. 
-Besides Marty's book, I read a lot of [other books]({{ '/books' | relative_url }}) as well as articles I found on the internet - many of which I found useful for my work. 
+Marty's workshop was a spark. From then on, I was all on fire to become the best product manager  I can be.
+Besides Marty's book, I read a lot of [other books]({{ '/books' | relative_url }}) as well as articles I found on the internet - many of which I found useful for my work.
 
 <div class="cards">
     <div class="card">
@@ -36,31 +38,30 @@ Besides Marty's book, I read a lot of [other books]({{ '/books' | relative_url }
     </div>
 </div>
 
-Both Marty and Itamar have tons of experience on how to create successful software and tech products and businesses. To any aspiring product manager, I can only recommend to read their material, try out the methods they share, and - if possible - attend a training or workshop with them. 
+Both Marty and Itamar have tons of experience on how to create successful software and tech products and businesses. To any aspiring product manager, I can only recommend to read their material, try out the methods they share, and - if possible - attend a training or workshop with them.
 
-# Speaking
+## Speaking
 
-Adopting agile product development and especially lean product management is not easy, especially in traditional domains. 
-I have experienced first hand that it is in fact possible, and I am eagerly willing to share insights that I have gained and inspire others. 
+Adopting agile product development and especially lean product management is not easy, especially in traditional domains.
+I have experienced first hand that it is in fact possible, and I am eagerly willing to share insights that I have gained and inspire others.
 
 <div class="embedded-linkedin-post">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7027977028775632896" height="750" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
-# Education
+## Education
 
-I am a computer scientist by education with a specialization in automotive embedded software development. 
+I am a computer scientist by education with a specialization in automotive embedded software development.
 
-* **2000-2006:** Studied Computer Science (Informatik) at [University of Ulm](https://www.uni-ulm.de/){:target="_blank"}, Germany. Graduated with Diplom degree. Main interests in programming languages and underlying paradigms. 
-* **2004-2005:** Studied Computer Science at [Monash University](https://www.monash.edu/){:target="_blank"}, Melbourne, Australia. Main interests in parallel systems and programming languages. Graduated with Bachelor with Honors degree. 
-* **2006-2010:** Conducted research in the area of automotive software engineering. Awarded with a PhD from Ulm University. Title of [PhD thesis: "A Timing Model for Real-Time Control-Systems and its Application on Simulation and Monitoring of AUTOSAR Systems"](https://www.linkedin.com/in/freypatrick/overlay/50016542/single-media-viewer?type=DOCUMENT&profileId=ACoAAAy3fMABdRHS-IHJ4YuMaaVL7OFYF5j2mx4&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkqX4E8x8RlWBewbqax6LsQ%3D%3D){:target="_blank"}. 
+* **2000-2006:** Studied Computer Science (Informatik) at [University of Ulm](https://www.uni-ulm.de/){:target="_blank"}, Germany. Graduated with Diplom degree. Main interests in programming languages and underlying paradigms.
+* **2004-2005:** Studied Computer Science at [Monash University](https://www.monash.edu/){:target="_blank"}, Melbourne, Australia. Main interests in parallel systems and programming languages. Graduated with Bachelor with Honors degree.
+* **2006-2010:** Conducted research in the area of automotive software engineering. Awarded with a PhD from Ulm University. Title of [PhD thesis: "A Timing Model for Real-Time Control-Systems and its Application on Simulation and Monitoring of AUTOSAR Systems"](https://www.linkedin.com/in/freypatrick/overlay/50016542/single-media-viewer?type=DOCUMENT&profileId=ACoAAAy3fMABdRHS-IHJ4YuMaaVL7OFYF5j2mx4&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BkqX4E8x8RlWBewbqax6LsQ%3D%3D){:target="_blank"}.
 
+## What others think and say about me
 
-# What others think and say about me
-
-OK, I have to work on this section and get quotes from people I have worked with. 
+OK, I have to work on this section and get quotes from people I have worked with.
 Nevertheless, I have introduced this section as I was fascinated [what ChatGPT has to say about me]({{ '/chatgpt_about_me/' | absolute_url }}).
 
-# Interested? Get in touch
+## Interested? Get in touch
 
 If you're interested in lean product management in general or topics such as prioritization and value-based pricing, don't hesitate to get in touch ({% include get_in_touch.html %})!
