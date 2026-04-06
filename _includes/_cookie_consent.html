@@ -1,72 +1,140 @@
-<style>
-    #cookie-notice {
-        padding: 0.5rem 1rem;
-        display: none;
-        text-align: center;
-        /*position: fixed;*/
-        bottom: 0;
-        width: calc(100% - 2rem);
-        background: #222;
-        color: rgba(255, 255, 255, 0.8);
-    }
-
-    #cookie-notice a {
-        display: inline-block;
-        cursor: pointer;
-        margin-left: 0.5rem;
-    }
-
-    @media (max-width: 767px) {
-        #cookie-notice span {
-            display: block;
-            padding-top: 3px;
-            margin-bottom: 1rem;
-        }
-
-        #cookie-notice a {
-            position: relative;
-            bottom: 4px;
-        }
-    }
-</style>
-<div id="cookie-notice">
-    <span>We would like to use third party cookies and scripts to improve the functionality of this website.</span>
-    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a>
-    <a href="/impressum" class="btn btn-primary btn-sm">More info</a>
-</div>
+<!-- Cookie Consent Banner -->
+<!-- Using CookieConsent v3 (orestbida/vanilla-cookieconsent) for GDPR compliance -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.css">
+<script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
 <script>
-    function createCookie(name, value, days) {
-        var expires = "";
-        if (days) {
-            var date = new Date();
-            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-            expires = "; expires=" + date.toUTCString();
+  CookieConsent.run({
+    guiOptions: {
+      consentModal: {
+        layout: "box",
+        position: "bottom",
+        equalWeightButtons: true
+      },
+      preferencesModal: {
+        layout: "box",
+        equalWeightButtons: true
+      }
+    },
+    categories: {
+      necessary: {
+        enabled: true,
+        readOnly: true
+      },
+      analytics: {
+        enabled: false
+      }
+    },
+    language: {
+      default: "en",
+      translations: {
+        en: {
+          consentModal: {
+            title: "We use cookies and analytics",
+            description:
+              "This website uses analytics cookies (Google Analytics, Microsoft Clarity) to help us understand how you use the site. We need your consent before loading these tracking scripts.",
+            acceptAllBtn: "Accept all",
+            rejectAllBtn: "Reject all",
+            showPreferencesBtn: "Manage preferences"
+          },
+          preferencesModal: {
+            title: "Cookie preferences",
+            acceptAllBtn: "Accept all",
+            rejectAllBtn: "Reject all",
+            savePreferencesBtn: "Save preferences",
+            sections: [
+              {
+                title: "Necessary cookies",
+                description:
+                  "These cookies are essential for the website to function properly. They are always enabled.",
+                linkedCategory: "necessary"
+              },
+              {
+                title: "Analytics cookies",
+                description:
+                  "These cookies help us understand how visitors interact with the website. We use Google Analytics and Microsoft Clarity to analyze site usage.",
+                linkedCategory: "analytics",
+                cookieTable: {
+                  headers: {
+                    name: "Name",
+                    domain: "Domain",
+                    description: "Description"
+                  },
+                  body: [
+                    [
+                      "_ga, _gid, _gat",
+                      "{{ site.url }}",
+                      "Google Analytics tracking cookies"
+                    ],
+                    [
+                      "CLID",
+                      "{{ site.url }}",
+                      "Microsoft Clarity tracking cookie"
+                    ]
+                  ]
+                }
+              }
+            ]
+          }
         }
-        document.cookie = name + "=" + value + expires + "; path=/";
-    }
-    function readCookie(name) {
-        var nameEQ = name + "=";
-        var ca = document.cookie.split(';');
-        for (var i = 0; i < ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
-            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+      }
+    },
+    onFirstConsent: ({ cookie }) => {
+      if (CookieConsent.acceptedCategory("analytics")) {
+        loadAnalytics();
+      }
+    },
+    onConsent: ({ cookie }) => {
+      if (CookieConsent.acceptedCategory("analytics")) {
+        loadAnalytics();
+      }
+    },
+    onChange: ({ changedCategories }) => {
+      if (changedCategories.includes("analytics")) {
+        if (CookieConsent.acceptedCategory("analytics")) {
+          loadAnalytics();
+        } else {
+          // User revoked consent - reload to purge tracking scripts
+          location.reload();
         }
-        return null;
+      }
     }
-    function eraseCookie(name) {
-        createCookie(name, "", -1);
+  });
+
+  function loadAnalytics() {
+    // Load Google Analytics (GA4 - G-ZC8P5WRD6V)
+    var gaScript = document.createElement("script");
+    gaScript.async = true;
+    gaScript.src = "https://www.googletagmanager.com/gtag/js?id=G-ZC8P5WRD6V";
+    document.head.appendChild(gaScript);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
     }
+    gtag("js", new Date());
+    gtag("config", "G-ZC8P5WRD6V");
 
-    if (readCookie('cookie-notice-dismissed') == 'true') {
+    // Load Google Analytics (Legacy - from config)
+    {% if site.google_analytics %}
+    var gaLegacyScript = document.createElement("script");
+    gaLegacyScript.async = true;
+    gaLegacyScript.src =
+      "https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}";
+    document.head.appendChild(gaLegacyScript);
 
-    } else {
-        document.getElementById('cookie-notice').style.display = 'block';
-    }
+    gtag("config", "{{ site.google_analytics }}");
+    {% endif %}
 
-    document.getElementById('cookie-notice-accept').addEventListener("click", function () {
-        createCookie('cookie-notice-dismissed', 'true', 31);
-        document.getElementById('cookie-notice').style.display = 'none';
-        location.reload();
-    });
+    // Load Microsoft Clarity
+    (function (c, l, a, r, i, t, y) {
+      c[a] = c[a] || function () {
+        (c[a].q = c[a].q || []).push(arguments);
+      };
+      t = l.createElement(r);
+      t.async = 1;
+      t.src = "https://www.clarity.ms/tag/" + i;
+      y = l.getElementsByTagName(r)[0];
+      y.parentNode.insertBefore(t, y);
+    })(window, document, "clarity", "script", "nhwttaqnmf");
+  }
 </script>
