@@ -55,6 +55,17 @@ Due to my current role, **I have limited availability**. This means:
 
 *Best if:* You're stuck on a specific problem (adoption strategy, team structure, process design, etc.) and want to move fast.
 
+### Option 3: Speaking & Workshops
+
+**For teams and organizations looking to understand what's possible**
+
+- Keynotes or team workshops (1-2 hours)
+- Real stories from adopting lean/agile in a conservative, traditional industry
+- Inspire teams on what's possible even in constrained environments
+- Can be tailored to your organization (product strategy, team scaling, evidence-guided decision-making, etc.)
+
+*Best if:* You want to spark change across your organization, get teams aligned on modern approaches, or bring in an external perspective on what's possible in traditional industries.
+
 ---
 
 ## How to Start
