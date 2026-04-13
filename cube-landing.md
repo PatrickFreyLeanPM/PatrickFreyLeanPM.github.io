@@ -166,8 +166,8 @@ image: /assets/Product_Backlog_Prioritized_CUBE.jpg
     <h2 class="landing-section-title">What practitioners say</h2>
     <div class="landing-testimonial-grid">
       <div class="landing-testimonial-card">
-        <p class="testimonial-quote">"[Testimonial from colleague or customer — describe how CUBE helped your team make clearer prioritization decisions]"</p>
-        <p class="testimonial-attribution">— Name, Role, Company</p>
+        <p class="testimonial-quote">"CUBE prioritization method integrates business value, customer segments, and estimation to drive more balanced and outcome-focused backlog decisions. Unlike traditional approaches like Kano that emphasize a single dimension, it offers a more holistic view. As a result, teams can prioritize effectively and focus on what truly matters instead of optimizing in just one direction. Overall, it is making our job easier and helping us focus on the right priorities"</p>
+        <p class="testimonial-attribution">— Padmanabha Bhat, Role, Senior Program Manager, Bosch Global Software Technologies</p>
       </div>
       <div class="landing-testimonial-card">
         <p class="testimonial-quote">"[Testimonial from colleague or customer — describe how CUBE helped your team make clearer prioritization decisions]"</p>
