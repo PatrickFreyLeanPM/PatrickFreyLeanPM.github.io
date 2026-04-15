@@ -160,31 +160,40 @@ image: /assets/Product_Backlog_Prioritized_CUBE.jpg
 </section>
 
 <!-- Testimonials Section -->
-<!--
+
 <section class="landing-section landing-section--alt">
   <div class="landing-inner">
     <h2 class="landing-section-title">What practitioners say</h2>
     <div class="landing-testimonial-grid">
       <div class="landing-testimonial-card">
-        <p class="testimonial-quote">"CUBE prioritization method integrates business value, customer segments, and estimation to drive more balanced and outcome-focused backlog decisions. Unlike traditional approaches like Kano that emphasize a single dimension, it offers a more holistic view. As a result, teams can prioritize effectively and focus on what truly matters instead of optimizing in just one direction. Overall, it is making our job easier and helping us focus on the right priorities"</p>
-        <p class="testimonial-attribution">— Padmanabha Bhat, Role, Senior Program Manager, Bosch Global Software Technologies</p>
+        <p class="testimonial-quote">"CUBE prioritization method integrates business value, customer segments, and estimation to drive more balanced and outcome-focused backlog decisions. Unlike approaches that emphasize a single dimension, it offers a more holistic view. As a result, teams can prioritize effectively and focus on what truly matters instead of optimizing in just one direction. Overall, it is making our job easier and helping us focus on the right priorities."</p>
+        <p class="testimonial-attribution">— Padmanabha Bhat, Senior Program Manager, Bosch Global Software Technologies
+          <a href="https://www.linkedin.com/in/paddubhat/" target="_blank"  >
+            <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>
+          </a>        
+        </p>
       </div>
+      <div class="landing-testimonial-card">
+        <p class="testimonial-quote">"CUBE is effective because it makes trade-offs explicit and early by evaluating items based on customer value, business value, and development effort, with a focus on the increments most likely to succeed."</p>
+        <p class="testimonial-attribution">— Byre Gowda, Tech Director, Bosch Global Software Technologies 
+          <a href="https://www.linkedin.com/in/byre-gowda-bb021122/" target="_blank"  >
+            <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>
+          </a>
+        </p>
+      </div>
+      <!--
       <div class="landing-testimonial-card">
         <p class="testimonial-quote">"[Testimonial from colleague or customer — describe how CUBE helped your team make clearer prioritization decisions]"</p>
         <p class="testimonial-attribution">— Name, Role, Company</p>
       </div>
-      <div class="landing-testimonial-card">
-        <p class="testimonial-quote">"[Testimonial from colleague or customer — describe how CUBE helped your team make clearer prioritization decisions]"</p>
-        <p class="testimonial-attribution">— Name, Role, Company</p>
-      </div>
+      -->
     </div>
-    <p style="text-align: center; margin-top: 40px; font-size: 0.9rem; color: #828282; font-style: italic;">We are gathering feedback from early practitioners. This section will be updated with real quotes soon.</p>
   </div>
 </section>
--->
+
 
 <!-- Podcast Section -->
-<section class="landing-section landing-section--alt"><!-- style="background-color: #fdfdfd;" -->
+<section class="landing-section"><!-- style="background-color: #fdfdfd;" -->
   <div class="landing-inner">
     <h2 class="landing-section-title">Prefer to listen? Tune in.</h2>
     <p class="landing-section-subtitle">An AI-generated NotebookLM podcast gives you a complete introduction to CUBE in audio format — no slides required.</p>
