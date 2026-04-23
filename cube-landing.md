@@ -181,12 +181,14 @@ image: /assets/Product_Backlog_Prioritized_CUBE.jpg
           </a>
         </p>
       </div>
-      <!--
       <div class="landing-testimonial-card">
-        <p class="testimonial-quote">"[Testimonial from colleague or customer — describe how CUBE helped your team make clearer prioritization decisions]"</p>
-        <p class="testimonial-attribution">— Name, Role, Company</p>
+        <p class="testimonial-quote">"CUBE-based prioritization gave me a clear starting point for creating an initial roadmap for a completely new product we launched. It is a quick read with easy-to-understand examples. The method guides decision-making by balancing multiple dimensions, such as Kano-model-based categories, business value, and development effort."</p>
+        <p class="testimonial-attribution">— Abhik Dey, Senior Product Manager, ETAS GmbH
+        <a href="https://www.linkedin.com/in/abhikdey/" target="_blank"  >
+            <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use></svg>
+          </a>
+        </p>
       </div>
-      -->
     </div>
   </div>
 </section>
