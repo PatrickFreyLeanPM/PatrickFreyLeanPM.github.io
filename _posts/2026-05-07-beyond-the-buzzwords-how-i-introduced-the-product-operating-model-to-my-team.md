@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond the Buzzwords: How I Introduced the Product Operating Model to My Team"
+title: "How I Introduced the Product Operating Model to My Team"
 date: 2026-05-07 20:00:00 +0100
 categories: product-management
 excerpt_separator: <!-- excerpt -->
