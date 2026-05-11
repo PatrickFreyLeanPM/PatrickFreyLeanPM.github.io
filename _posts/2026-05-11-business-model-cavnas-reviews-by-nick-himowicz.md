@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Business Model Canvas Reviews by Nick Himowicz"
-date: 2026-05-11 07:00:00 +0100
+date: 2026-05-11 06:00:00 +0100
 categories: product-management
 excerpt_separator: <!-- excerpt -->
 description: "A practical summary of Nick Himowicz's Business Model Canvas review, including clear Do's and Don'ts to make your canvas more useful and easier to understand."
