@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: "CUBE Prioritization Method — Free Ebook & Slides"
+title: "CUBE"
 permalink: /cube-landing/
 description: "Get the free CUBE ebook (62 pages) and presentation slides (75 slides). Learn to prioritize product backlogs from customer, business, and development perspectives."
 image: /assets/Product_Backlog_Prioritized_CUBE.jpg
