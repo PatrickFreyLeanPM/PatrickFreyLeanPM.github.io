@@ -46,11 +46,12 @@ sass:
 
 header_pages:
   - about.md
+  - cube-landing.md
   - services.md
   - custom_methods_tools.md
   - blog.md
 #  - people.md
-  - concepts.md
+#  - concepts.md
   - books.md
 
 collections:
@@ -67,7 +68,9 @@ collections:
     output: true
     sort_by: order    
 
-#exclude:
+exclude:
+  - CLAUDE.md
+  - README.md
 #  services.md
 
 # Exclude from processing.
