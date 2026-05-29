@@ -19,6 +19,9 @@ image: /assets/Product_Backlog_Prioritized_CUBE.jpg
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6HcqmnPv0a7gprBqR_OhZ3nRHDKy1CuiRlxQtTC6T2NrgTg/viewform?usp=sf_link" class="button" target="_blank">Get the Slides — Free</a>
         </div>
         <p style="margin-top: 20px; font-size: 0.95rem;">Or <a href="{{ '/cube-podcast/' | relative_url }}" style="color: #ff9933; font-weight: 600;">listen to the podcast →</a></p>
+        <div class="landing-cta-row">
+          <b>NEW:</b>Apply CUBE directly inside Claude’s interface <a href="{{ '/cube-for-claude/' | relative_url }}" class="button" target="_blank"> CUBE for Claude</a>.
+        </div>        
       </div>
       <div>
         <picture>
@@ -74,6 +77,7 @@ image: /assets/Product_Backlog_Prioritized_CUBE.jpg
     </p>
   </div>
 </section>
+
 
 <!-- What You Get Section -->
 <section class="landing-section" style="background-color: #fdfdfd;">
