@@ -47,6 +47,7 @@ sass:
 header_pages:
   - about.md
   - cube-landing.md
+  - cube-for-claude.md
   - services.md
   - custom_methods_tools.md
   - blog.md
