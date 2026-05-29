@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://patrickfreyleanpm.com" # the base hostname & protocol for your site, e.g. http://example.com; previously: https://patrickfreyproductmanagement.github.io
 logo: /assets/Patrick_Frey_square_800x800.webp
 twitter_username: patrickcfrey
-# github_username:  patrickfrey
+github_username: PatrickFreyLeanPM
 linkedin_username: freypatrick
 google_analytics: G-3WF06R3KTS
 
