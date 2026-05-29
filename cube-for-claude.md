@@ -39,10 +39,7 @@ image: /assets/CUBE_for_Claude_screenshot1.jpg
         <p><strong>Unstructured AI output.</strong> Claude can generate ideas and implement them, but prioritizing them requires human effort.</p>
       </div>
       <div class="landing-problem-item">
-        <p><strong>Missing decision framework.</strong> Teams need a repeatable way to weigh Customer Value, Business Value, and Development Effort.</p>
-      </div>
-      <div class="landing-problem-item">
-        <p><strong>Actionable artifacts.</strong> Exportable CSV/JSON scores let you plug results into JIRA, Azure Boards, or Notion.</p>
+        <p><strong>Missing decision framework.</strong> Teams need a repeatable way to weigh Customer Value, Business Value, and Effort.</p>
       </div>
     </div>
   </div>
