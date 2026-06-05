@@ -71,6 +71,7 @@ collections:
 exclude:
   - CLAUDE.md
   - README.md
+  - PAGE_MAP.md
 #  services.md
 
 # Exclude from processing.
