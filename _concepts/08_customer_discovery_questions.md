@@ -1,46 +1,42 @@
 ---
 layout: concept
-title: "Customer Discovery Interview Questions"
+title: "Customer Discovery Questions"
 order: 8
 category: product
 ---
 
+## Customer Discovery Questions
 
-## Customer Discovery Interview Questions
+Ash Maurya’s interview framework focuses on uncovering real customer pains and opportunities without pitching a solution. The questions are deliberately backward‑looking, forcing the interviewee to recall concrete experiences.
 
-This section captures Ash Maurya's specific interview questions designed for founder/customer discovery. The goal is to reveal **actual customer pains and opportunities** without pitching a product idea.
+**Key Questions**
 
-### The 5 Key Questions
+1. **“What would have to be true for you to fix this?”**  
+   Reveals the non‑negotiable conditions that would make a solution viable.
 
-1. **"What would have to be true for you to fix this?"**
-   - Reveals concrete requirements for solving the problem
-   - Highlights non-negotiable conditions for success
+2. **“What would you pay to have this fixed?”**  
+   Highlights the perceived value and the maximum spend a customer is willing to commit.
 
-2. **"What would you pay to have this fixed?"**
-   - Surfaces true value perception
-   - Identifies practical constraints in implementation
+3. **“What would you rather do than fix this?”**  
+   Uncovers alternative actions and the competition the customer currently uses.
 
-3. **"What would you rather do than fix this?"**
-   - Reveals avoidance behaviors and priorities
-   - Shows what competitors might be winning
+4. **“How do you currently handle this problem?”**  
+   Surfaces existing workarounds, legacy systems, and the full scope of the pain.
 
-4. **"How do you currently handle this problem?"**
-   - Exposes workarounds and legacy systems
-   - Reveals existing pain points in current solutions
+5. **“What would you do if you had unlimited resources?”**  
+   Exposes ideal outcomes and aspirational needs that can guide product vision.
 
-5. **"What would you do if you had unlimited resources?"**
-   - Identifies ideal solutions without practical constraints
-   - Highlights aspirational needs
+### Why It Works
 
-### Why This Works
-
-All questions are backward-looking (ask about past problems, not future solutions). No mention of the product during questioning. This framework helps uncover unmet needs and market opportunities by forcing honest reflection on past experiences and eliminating bias toward the questioner's proposed solution.
+- All questions are backward‑looking, encouraging honest reflection on past problems.  
+- No product language is used, avoiding bias toward any proposed solution.  
+- The answers map directly onto the metrics in the Lean Canvas, making them actionable.
 
 ### Implementation Tips
 
-- Ask one question per conversation segment
-- Don't suggest answers or validate responses
-- Follow up with concrete examples when possible
-- Use answers to map to the Lean Canvas framework
+- Pose one question per interview segment; don’t bundle them.  
+- Follow up with specific examples when a response is vague.  
+- Record answers verbatim; later tag them to the relevant Lean Canvas block.  
+- Use the compiled insights to prioritize which problems merit a solution.
 
 > Source: [The single most expensive interview mistake (Ash Maurya)](https://www.linkedin.com/posts/ashmaurya_the-single-most-expensive-interview-mistake-share-7468376077321584640-sTHD/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAy3fMABdRHS-IHJ4YuMaaVL7OFYF5j2mx4)
