@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speaking my thoughts"
-date: 2026-07-27 06:00:00 +0100
+date: 2026-07-31 06:00:00 +0100
 categories: 
 excerpt_separator: <!-- excerpt -->
 description: "Exploring OpenWhispr: an open-source, local voice-to-text solution for thinking out loud while coding and writing. Why I ditched the workarounds   
