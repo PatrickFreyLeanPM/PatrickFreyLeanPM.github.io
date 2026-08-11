@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Patrick Frey is a passionate product manager with over 15 years' experience. He currently works at ETAS, a 100% subsidiary of Bosch.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://patrickfreyleanpm.com" # the base hostname & protocol for your site, e.g. http://example.com; previously: https://patrickfreyproductmanagement.github.io
-logo: /assets/Patrick_Frey_square_800x800.webp
+logo: /assets/Patrick_Frey_2026.jpg
 twitter_username: patrickcfrey
 github_username: PatrickFreyLeanPM
 linkedin_username: freypatrick

@@ -24,10 +24,16 @@ layout: home
         </p>
     </div>
     <div class="card">
+        <!--
         <picture>
           <source srcset="{{ '/assets/Patrick_Frey_square_640x564_transparent_background.webp' | relative_url }}" type="image/webp">
           <img class="profilepicture" src="{{ '/assets/Patrick_Frey_square_640x564_transparent_background.png' | relative_url }}" alt="Patrick Frey" loading="eager">
         </picture>
+        -->
+        <picture>
+          <source srcset="{{ '/assets/Patrick_Frey_2026.jpg' | relative_url }}" type="image/webp">
+          <img class="profilepicture" src="{{ '/assets/Patrick_Frey_2026.jpg' | relative_url }}" alt="Patrick Frey" loading="eager">
+        </picture>        
     </div>
 </div>
 
